@@ -1,0 +1,2175 @@
+{
+  "pdf_sha256": "3ca4fe66b1fd4d81154f4542a4e5450d5fd3177fcb576cd366454c1f253f2b09",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "7th-chord-arpeggios.html",
+      "sha256": "c64c4eacc4e31886bbe41200104934dca77cb38b70a94a503a9d2016e3c12055",
+      "size": 51140
+    },
+    {
+      "path": "README.md",
+      "sha256": "65e9fdd50ccb171f9208d90adda8cab8aed13705b9591457451523e2bafdf558",
+      "size": 970
+    },
+    {
+      "path": "about-the-author.html",
+      "sha256": "e30d300c1cb30215931af969ea7b88494de97f676a21824be4f7065d4bb2b051",
+      "size": 31600
+    },
+    {
+      "path": "accompaniment-project.html",
+      "sha256": "fef938ad3be2a4f408febd135615f0ab8d9215406af689ab027b75372021e977",
+      "size": 38443
+    },
+    {
+      "path": "accompaniment-styles.html",
+      "sha256": "4dbbd10ae3c54dcec458b1114b0249619828447bc25b014d997f2464a7c2e5ca",
+      "size": 48329
+    },
+    {
+      "path": "acknowledgements.html",
+      "sha256": "92289e4ec3fc6dd3d995ce42d193c33e79a18b46e1b63d80d3f1647e7bee5d27",
+      "size": 29699
+    },
+    {
+      "path": "appendix-contents.html",
+      "sha256": "64578e0b2f0a05089bbf53971573ab3423ac1f6107a84e95370dcac254d60932",
+      "size": 29404
+    },
+    {
+      "path": "assets/fonts/DejaVuSans-Bold.ttf",
+      "sha256": "5c1247acef7f2b8522a31742c76d6adcb5569bacc0be7ceaa4dc39dd252ce895",
+      "size": 708920
+    },
+    {
+      "path": "assets/fonts/DejaVuSans.ttf",
+      "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280",
+      "size": 759720
+    },
+    {
+      "path": "assets/fonts/LICENSE-DejaVu.txt",
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "size": 3859
+    },
+    {
+      "path": "assets/fonts/NotoMusic-Regular.ttf",
+      "sha256": "aeb2998c380f5807cda77e1d94e4ac596429cb74d4fffb8da279d4f3144c0eae",
+      "size": 124336
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha256": "1679cb60544990b4c2445320c6d5298e4bb0c08ff00dbb5a526f3793fdaa1e6f",
+      "size": 4381
+    },
+    {
+      "path": "assets/source/01069e797ec636e68622.png",
+      "sha256": "7453146f1e5425755ba71d86c57cd33fb3a644fe2f63a58aa4c8a3364c898bb4",
+      "size": 85025
+    },
+    {
+      "path": "assets/source/012251e2e39d78f97428.png",
+      "sha256": "e84cc13c61c5503d88efd6285016fb795b9a928737c366ee2c2178ee3726d7f0",
+      "size": 52963
+    },
+    {
+      "path": "assets/source/0176ecc47e109139d29f.png",
+      "sha256": "20df3df4b74ae31d5248e9519a46a590ded01f63da4605916b2306192f92b71d",
+      "size": 14891
+    },
+    {
+      "path": "assets/source/029815a342209f40b888.png",
+      "sha256": "1c0897c767e147e99fb5e1164741815e547684ef39b4ba5cf3cc9fc8d2ebdf48",
+      "size": 44028
+    },
+    {
+      "path": "assets/source/0325b67c20bf1aaca95a.png",
+      "sha256": "cc0c7e7e2a5e52d8f182508f2a95d49e5e186d9f0c889fddc64f32934d5f4ad5",
+      "size": 50562
+    },
+    {
+      "path": "assets/source/040cafa1fe2d3740b28e.png",
+      "sha256": "88e827876b335267928ef9ef207e844bd47e5582159cafe83f796826a5a2c7bf",
+      "size": 75229
+    },
+    {
+      "path": "assets/source/08280dd03e8256b667e7.png",
+      "sha256": "0498e37367b7159524352604626ab4ae20caeff018e310c6192ea450e78dd490",
+      "size": 79851
+    },
+    {
+      "path": "assets/source/08e63f63af6de210f47a.png",
+      "sha256": "3e62a9d9028443e33b65bc5cfc4bc89d203fed5591e495e963f7ada291350320",
+      "size": 44255
+    },
+    {
+      "path": "assets/source/0918d42435ef172c71a2.png",
+      "sha256": "4d2e2757ae8b9f1a434302b0774d8bfd72af843b3feaa3f3dc5511ac40c12076",
+      "size": 41839
+    },
+    {
+      "path": "assets/source/0d57f6ede5016f05e249.png",
+      "sha256": "495d044bb401676b4a766db00cf7b7b2ce3be30e07edb0cd42b702f121d9843b",
+      "size": 86488
+    },
+    {
+      "path": "assets/source/0dd5448fe160f8a044e8.png",
+      "sha256": "0c7b9c25690721fd71dcd499f3ac7a30ea1c06250f20d889a63bbf81fca371b3",
+      "size": 90768
+    },
+    {
+      "path": "assets/source/0f42ed80b7a5724ad957.png",
+      "sha256": "c82980fb99647e8c616a708992da288ec731c06b4d99476c61255b8665fbb76c",
+      "size": 37988
+    },
+    {
+      "path": "assets/source/0fbaf0145107e6fcb2e4.png",
+      "sha256": "c8d8cb2d943e4f739927ac87bf7ae1cbed30877834617ca4986e1844cf00c316",
+      "size": 44980
+    },
+    {
+      "path": "assets/source/1154768b6d4252a6c258.png",
+      "sha256": "64d19bb6b0557a36472c8a113a9fbc0bdcc1607890f15b25448840c729e55ba4",
+      "size": 83056
+    },
+    {
+      "path": "assets/source/1175dfd8005b6512a815.png",
+      "sha256": "3a9fed52e30b8c386592a77e8ecadd73be99ce02149f09d4c29c5701c47a2b08",
+      "size": 47872
+    },
+    {
+      "path": "assets/source/12adbce760841bf492e2.png",
+      "sha256": "18f3b8fb02c16164f8158b39bf9350c87705e638e55cbc7e9f5f03e4d2a5105d",
+      "size": 21711
+    },
+    {
+      "path": "assets/source/12ae7076592c42d4f538.png",
+      "sha256": "f0078d0ff43e5b675d971791fc04da72a07a0b610acf91e099d617e173250f60",
+      "size": 56711
+    },
+    {
+      "path": "assets/source/1a00939e6b443f2850f3.png",
+      "sha256": "abb980fd153f55d5f29f1ef3c9351bb5a35cf97751948159d25c85b6155e11b3",
+      "size": 151610
+    },
+    {
+      "path": "assets/source/1cc05f8a19725dababaa.png",
+      "sha256": "91dca2d1f83e10662ab00203e8d0e36810b14cfaadfb857f443e057ac4f27b42",
+      "size": 41931
+    },
+    {
+      "path": "assets/source/1da1a13769ebdc4f6445.png",
+      "sha256": "3da386a7e8403be4ba89a2b76f5333464ab8c5b04bf489a588377c6280ee39b7",
+      "size": 239989
+    },
+    {
+      "path": "assets/source/1e8d62b3618f7590d23d.png",
+      "sha256": "69619e5909e5f963ae7a9afd461bc3f495f3136d1439f64576bf65780765d79d",
+      "size": 77168
+    },
+    {
+      "path": "assets/source/1eaa700ca0e4bd412c17.png",
+      "sha256": "b9a8258bdf9a8a91ef6e2cef52da6233b0126bf23e64e6f7220c5a7617c22024",
+      "size": 107159
+    },
+    {
+      "path": "assets/source/1ec055a8ec23a5ddcb4e.png",
+      "sha256": "cf3b97c4f59d8fc8ee120e225d51ccada85b95e6d505414539ed9ee2221bf385",
+      "size": 34496
+    },
+    {
+      "path": "assets/source/214b06cd9793a316e911.png",
+      "sha256": "7c01ff9625529f4461e4484ff5d46c9e713287122cfb05b1318e72d8ea6b0dc1",
+      "size": 40275
+    },
+    {
+      "path": "assets/source/215cb1def76520d3fe10.png",
+      "sha256": "1ed7f7c641b0f8ed9dbcbb5288340a2eef067f95258726af16e34c28d9c06063",
+      "size": 110504
+    },
+    {
+      "path": "assets/source/23633dc536abb1219ad2.png",
+      "sha256": "7f0becca619dc5faf9a90a4b74d98df5b2572b219e30ebeab1bb0bd87dce6847",
+      "size": 41582
+    },
+    {
+      "path": "assets/source/236752bc4a5db6df3380.png",
+      "sha256": "62a81c9d515dd9346828ece9ba80374ac010ef1e5a2a90d1ad0f27d635b81278",
+      "size": 137617
+    },
+    {
+      "path": "assets/source/245f399c678f048e9103.png",
+      "sha256": "6964667ccda86277a83e1c5479b93064510e0db3813a00f6e9cbd7beb2e259d5",
+      "size": 84688
+    },
+    {
+      "path": "assets/source/25391f96a6117c5be300.png",
+      "sha256": "926bbaba63bc13c30ebefa8fa9dbe140674f5fe7b72ede50bf070d25cb406334",
+      "size": 144999
+    },
+    {
+      "path": "assets/source/25d2c37fecf27c058f62.png",
+      "sha256": "705f8d771093d483b239e3a4ea1b5e5acd11781b4e2fc6127209c946a51347bf",
+      "size": 42817
+    },
+    {
+      "path": "assets/source/27088628d1cc5c3205e1.png",
+      "sha256": "e73ce2b3cdeec27aaa10b6ad4acf26490eede13e3e1ec0399db80d47751fafd1",
+      "size": 40018
+    },
+    {
+      "path": "assets/source/2770d8cd178e7d4eff2b.png",
+      "sha256": "dacebe4bc3f90f7493abd4a9d7a848ec32c3506eed94c9e1b6b26a1ad07d3857",
+      "size": 42731
+    },
+    {
+      "path": "assets/source/2795bf3379d7cf83a432.png",
+      "sha256": "bad212c906b8ebb238da21a3b823b5d939f7f1ec4967454d27127cf78822c0e1",
+      "size": 5611
+    },
+    {
+      "path": "assets/source/27d7b618c58a151a7786.png",
+      "sha256": "919431399849824d6b2fb766a4ab6b49f94325369d125d4a17ae10dba27c1e89",
+      "size": 282867
+    },
+    {
+      "path": "assets/source/28f8127ae6efd15d6011.png",
+      "sha256": "ae7b67b95bff27bf5e845c174e3afffb5bfce285eed78345037a162bcbdee4e6",
+      "size": 177221
+    },
+    {
+      "path": "assets/source/29a82ae408f345351b64.png",
+      "sha256": "8c85b490438c8d72c582131c5ea6644dc3277f9b05314eaba3d76e1feb1de2be",
+      "size": 161874
+    },
+    {
+      "path": "assets/source/2ab409aca99a0c6641f7.png",
+      "sha256": "d60f3706f6df8c8d64ecdc637ec4323c765a1577be2c2c7649e25ae914d85ca6",
+      "size": 203550
+    },
+    {
+      "path": "assets/source/2ed96160092ae69b67a8.png",
+      "sha256": "7b381e74f8ec142f620206443590afda8af68c1217c6fbe0de0e4d87d8202ad8",
+      "size": 84314
+    },
+    {
+      "path": "assets/source/313870d4fdf6b13e0220.png",
+      "sha256": "7a8ede16615608c6717b8c047aea574bbd1deb7774335f556481da293ee71aae",
+      "size": 8938
+    },
+    {
+      "path": "assets/source/319ca411fda6f94c7133.png",
+      "sha256": "ee4b7a7977a0fcc00c857be67c8b4f3c78c288cb434e71e3db21d4ee9235ddf2",
+      "size": 153265
+    },
+    {
+      "path": "assets/source/331a224b8f0dc4761dea.png",
+      "sha256": "81862ed99868dd8a810c4468622cbda39a3890085dc9e51eaa57b69504ac783d",
+      "size": 45128
+    },
+    {
+      "path": "assets/source/33fc84ee335af14fd63a.png",
+      "sha256": "baeed047328b7c907a091cdc75f5f5be5f215a8fdcab5348aa6565fa88e5c3f7",
+      "size": 41923
+    },
+    {
+      "path": "assets/source/36891cfa905c1469a847.png",
+      "sha256": "d480fbcbd34f581b02c9861ca9b93f432baf4e8e3d28a0340a279a9703a3cac2",
+      "size": 52504
+    },
+    {
+      "path": "assets/source/38f8c089317a0c01a146.png",
+      "sha256": "0717391212732a3c0a57a42d90be2c406271cc1edebb65058755855ad4966efc",
+      "size": 34172
+    },
+    {
+      "path": "assets/source/397e3cfaab43133a465d.png",
+      "sha256": "7af99e3df22cf6c43c60e339f0cba8a7efdf0f480a09d41ba374428a22efd174",
+      "size": 9112
+    },
+    {
+      "path": "assets/source/3a467950c10665df95dc.png",
+      "sha256": "5e84c455ab10065cd6f370663f905c7674afe94dc64139470c597fd31635b526",
+      "size": 84388
+    },
+    {
+      "path": "assets/source/3d2159f6230909d93327.png",
+      "sha256": "1fc5dddf344db89e091dd80f87296fadda39bf775b235ab5d8374d8757299655",
+      "size": 144832
+    },
+    {
+      "path": "assets/source/3e2ea1bc7a769dedee52.png",
+      "sha256": "8bc40ede3d27447a141cb8f5918028b924c626aa3c3da5919ab37080b6241ff0",
+      "size": 44785
+    },
+    {
+      "path": "assets/source/3e88d4bbb7b938926248.png",
+      "sha256": "3737cbeaa8937c389a1e6bdd0334050d4cb7759bd24d65d986b30089b5985a30",
+      "size": 111893
+    },
+    {
+      "path": "assets/source/3f88fea56a5c268684b5.png",
+      "sha256": "59beca31ff3657e31d7b2c40931c591814a60ad70fc6c19777279d940173cde5",
+      "size": 200325
+    },
+    {
+      "path": "assets/source/402a6a0a4ec7da40b2ce.png",
+      "sha256": "dd52afd46b82000ca47407eae43b31644af4769c3147bc574d575ba758a5d512",
+      "size": 99781
+    },
+    {
+      "path": "assets/source/40bc531881eaa648fccf.jpg",
+      "sha256": "e64bb49bd3ce980cc969f86d4b8ea8276487ff3eaacbb8c1583d997d479dc8a1",
+      "size": 157789
+    },
+    {
+      "path": "assets/source/42144fde8b931538035c.png",
+      "sha256": "9403f6ab2edcf7c862c1e74984356663ab012d080bc593d459f68ac93d19725e",
+      "size": 113477
+    },
+    {
+      "path": "assets/source/4416c658acd9080a3920.png",
+      "sha256": "2a075ec4f90a96c42ee8acbe3ca77dcc908e7cb152fb6b9d2780bd8491eb8005",
+      "size": 49847
+    },
+    {
+      "path": "assets/source/4434411053d3a991e0ff.png",
+      "sha256": "a42b5ce7380844c36e9ee17a6de588369dd45311359a77767ff5f5a69b5294f7",
+      "size": 208784
+    },
+    {
+      "path": "assets/source/45b6759d91e419f4dd12.png",
+      "sha256": "02187a2e6b1d29dcba10611c754d5d801e8059e495ce60d184500e48dfd81664",
+      "size": 12159
+    },
+    {
+      "path": "assets/source/463e8c911d21329379a7.png",
+      "sha256": "8aa8daa9ddac8c13f6009f4868d1aa2c99852c9454cbc1c553fc07a628b7041b",
+      "size": 162714
+    },
+    {
+      "path": "assets/source/49af8a2748b0e510331a.png",
+      "sha256": "2dd22b36ed2bdec594ad681da511ce50db78dae9f8ba08c9ce9ee8c07b1a4239",
+      "size": 9769
+    },
+    {
+      "path": "assets/source/49b4040e96d2fd9e6935.png",
+      "sha256": "8c9343958d5da28116d0a575710122f9859a9268d902b9275ae29593dd0484d5",
+      "size": 40969
+    },
+    {
+      "path": "assets/source/4a2627e505cc3303533f.png",
+      "sha256": "25104df846ef81342ab8d1c49be68c9dd4285f616a2a70c074f83190b870a961",
+      "size": 28059
+    },
+    {
+      "path": "assets/source/4a463912702194930c80.png",
+      "sha256": "a465f7afe4ac5240a8c55efc5cf5abc0390a8f13fe674095efa3cb1c452fce58",
+      "size": 49675
+    },
+    {
+      "path": "assets/source/4b67248da43b473b8843.png",
+      "sha256": "f910ce07f6217201d823cb5f4f11fd0d45cd66192475144782bae292ae5b4f09",
+      "size": 100303
+    },
+    {
+      "path": "assets/source/4bf0945ec82bad74cde9.png",
+      "sha256": "f059d0159955621c8b495b3f2a83c4382a4eb2d64edcfcc4ccdd7ac3cb3925ee",
+      "size": 37489
+    },
+    {
+      "path": "assets/source/4c79e0cb92684ec56df1.png",
+      "sha256": "008e13d94ba50d410610aaca4f08209d596bd13a40c91140e558f83a59e22f39",
+      "size": 51303
+    },
+    {
+      "path": "assets/source/4c8850fe3d911a3c0cec.png",
+      "sha256": "d3d8277df1334790ac117279ff02ca1c03ed6b07327e249a47ea48d7d19235bf",
+      "size": 364953
+    },
+    {
+      "path": "assets/source/4c96779686922b0a98af.png",
+      "sha256": "74e7ec6ee9fac2099dfe0640df6443481e5f94dd29411dc8d3e4e71543c7d778",
+      "size": 81728
+    },
+    {
+      "path": "assets/source/4db27c38ba2a02fe5b53.png",
+      "sha256": "983fd84a7bae7b882b5b0fa30362904e3aeb536b8f2b5372225059359fec0115",
+      "size": 126706
+    },
+    {
+      "path": "assets/source/4de534716ecc659825ee.png",
+      "sha256": "8885d58a9dd1827dc5bfe3a2c2372053ecac830f045caa7e82f6e1196e178905",
+      "size": 105066
+    },
+    {
+      "path": "assets/source/4e137cc9461455ea7e63.png",
+      "sha256": "d1369586c6852ce2e06308f3e75dbe74726460e66c24c15101a68759b3bf73ff",
+      "size": 345869
+    },
+    {
+      "path": "assets/source/4fa60bef094a6f744a55.png",
+      "sha256": "c708d2b468120ac2606bf6821d179c7270daddd7fea6e920536bb8cccf1c3e7d",
+      "size": 100501
+    },
+    {
+      "path": "assets/source/50dc15a9d5ae931b9440.png",
+      "sha256": "5c7de00c78448f0e3717932d842a87a5fea93d01a6d750fb8f49e9b0f9ca1b13",
+      "size": 40855
+    },
+    {
+      "path": "assets/source/519299e4fa2d5062f5a2.png",
+      "sha256": "429f6e8690d6b045476b3a50fe92c37013b56ecd7e81ace87b0d22c8aa8c96fa",
+      "size": 42424
+    },
+    {
+      "path": "assets/source/52ada7ab40820b535457.png",
+      "sha256": "8d60c049bda66d82af584182a54c356ad21f3c3044e41688eccfad4669efd67f",
+      "size": 56725
+    },
+    {
+      "path": "assets/source/53d496444507d177f479.png",
+      "sha256": "21dd63bfce22b427f8a4f7fda6c03841649d5c763b639310f92d3a4557eea0b4",
+      "size": 42013
+    },
+    {
+      "path": "assets/source/54f521859cf4c67d2fbf.png",
+      "sha256": "10194fb6d0436b458b9c17acaa7360d4cdfd3f40e434f45521c6cc217d26993c",
+      "size": 134537
+    },
+    {
+      "path": "assets/source/55deb11c3575d017c951.png",
+      "sha256": "693562ef888afdbffb085124cce1cd41d136b48b7532e05f651abf774c536664",
+      "size": 72608
+    },
+    {
+      "path": "assets/source/56e0d611f0ac0273e829.png",
+      "sha256": "59b04de390ec6518b36a06315e72dd9463ff59f3d5cd3d65631dbfc860db5ce7",
+      "size": 45649
+    },
+    {
+      "path": "assets/source/57d6e66d3b0b6d336fb1.png",
+      "sha256": "2c52708f1154ec8d3f93104003589a2991d2613f49237c0a49d46025ca29583a",
+      "size": 169687
+    },
+    {
+      "path": "assets/source/57f52213296bd09f1517.png",
+      "sha256": "7efb4f8ff3c5f4b46235595096ff8743b0895fa71a4c0470493feec164a08e0a",
+      "size": 45848
+    },
+    {
+      "path": "assets/source/5a6bcbe6d3056adbcdbb.png",
+      "sha256": "8f48cf877478cffd572a332ee27d9942c0908664099bacdd44985d492f4664fa",
+      "size": 39715
+    },
+    {
+      "path": "assets/source/5de0bd1666aef5136fdd.png",
+      "sha256": "7e64c3735fe5fd460b64781ec0a3386f3b45491d40fede57b408e781a9bb749c",
+      "size": 38844
+    },
+    {
+      "path": "assets/source/6081e8b14a37f7fd5466.png",
+      "sha256": "858b28c3b1e0f7cef36c8d6ce1924d80ce38bba214612f6ee83a1820922683a0",
+      "size": 44751
+    },
+    {
+      "path": "assets/source/6105827ee784ff052360.png",
+      "sha256": "16097e1ce282ba740e1be1187764aebf9b1cf2d4508d5f229f59add0c733efa2",
+      "size": 44395
+    },
+    {
+      "path": "assets/source/61e4744febf1b7941558.png",
+      "sha256": "933c43fcd41a09d5bf189a081db0f8bde86d9a638308bc81d43f08f955c3b1d3",
+      "size": 49133
+    },
+    {
+      "path": "assets/source/64c45d61b8e4deb64a04.png",
+      "sha256": "ed4c411f58d394d29192fc84389dadeaacf4666f0cca97fb0e88a15ab66fdd13",
+      "size": 119648
+    },
+    {
+      "path": "assets/source/65e68e904120cfb2bd4f.jpg",
+      "sha256": "caf6a584656e33a45fb157c07f95e8cefc3ee428d9bddf8490ebf99805a990c2",
+      "size": 333554
+    },
+    {
+      "path": "assets/source/664b34793f1ef8bd22ec.png",
+      "sha256": "2d95aeb2a43838eaec09cb3193a36dc183c3c51fd3f50ed5d3f79c77a48f7bbb",
+      "size": 294100
+    },
+    {
+      "path": "assets/source/68a117ad1c70bcf5dac8.png",
+      "sha256": "bc33422978ab885386014d3348bfece68c32939dc54a5fc68cd1ebe658e55674",
+      "size": 44542
+    },
+    {
+      "path": "assets/source/68c5ddb0fc53b1c751ce.png",
+      "sha256": "ac99a5a17c6cca0d8b878f300e4abc770459c7103af4a087ba17134347591d5b",
+      "size": 12769
+    },
+    {
+      "path": "assets/source/697cf1edf1f1262ef909.png",
+      "sha256": "6d0ad57ff16d081cb2c3d15dcbb6672445714fd732a50b273e3cec6da451c668",
+      "size": 84752
+    },
+    {
+      "path": "assets/source/698033bdaca11dafd53a.png",
+      "sha256": "4a8497eeee265a8135b1fd77011e66a92dcf9ae25be806b6ccd86dd3fb914002",
+      "size": 135234
+    },
+    {
+      "path": "assets/source/6a6658a984aecb1424aa.png",
+      "sha256": "e17d741bacd5c9c7aad73096d6b153c9da39c6553960500ac8d222ce6b78f1ad",
+      "size": 39929
+    },
+    {
+      "path": "assets/source/6bdc7bc9cdec3ca5d8e9.png",
+      "sha256": "f2386ce337d6beaf3c6122182f38d626007cccd3df8bdbf078d55a6f9ac26851",
+      "size": 531578
+    },
+    {
+      "path": "assets/source/6d6887a981710ed0c3e7.png",
+      "sha256": "8d75c31f243d260665d93fbf7bb924ac38f9036c8ae3c7e3e270d43ea960eef8",
+      "size": 88934
+    },
+    {
+      "path": "assets/source/6f93f6fb699658c63ab2.png",
+      "sha256": "735de6f10ce26d54849fb6eef8b27e5c3ee288b12bec231ed86f588690289cd7",
+      "size": 44453
+    },
+    {
+      "path": "assets/source/703980bcea84b963ee0d.png",
+      "sha256": "26d720a59b092a5850a14cdb51b9b72f99df7e0edb160b9d97b2a8a4666e9d79",
+      "size": 50033
+    },
+    {
+      "path": "assets/source/7059363cb14357e579cc.png",
+      "sha256": "a2b3363464d045f40ceb8554adc861e2eba1562db8afe539d662dbc90eb8207d",
+      "size": 243038
+    },
+    {
+      "path": "assets/source/7213e3e8c4149f503e7f.png",
+      "sha256": "6edb146d31801bd41931c659dd00ff84f2eec2124152473fcd1bd6da2be70548",
+      "size": 62338
+    },
+    {
+      "path": "assets/source/7276455b65136fe4aadd.png",
+      "sha256": "1a4910ff0406e4ef101132bcf75888b66b404afa601226999e36a16c34d20e96",
+      "size": 102818
+    },
+    {
+      "path": "assets/source/7357ef005dec0d4893b1.png",
+      "sha256": "14b6b1009bb8d3f9100460df57a68728a4a022adee5b2973aa58df3f8bb93e1a",
+      "size": 42103
+    },
+    {
+      "path": "assets/source/750e52bff408e23b7863.png",
+      "sha256": "d73185b81608d60154445ac1f5e2478c131c78877d2cb1bb0c81a167f596b752",
+      "size": 44246
+    },
+    {
+      "path": "assets/source/758c6bbce2764d685bb1.png",
+      "sha256": "603b9a466f408e3d70bfdd44c60b18298f5fa5f79df6ef53b9f8a5cec194c0d9",
+      "size": 20524
+    },
+    {
+      "path": "assets/source/75f7fc7f5f0b381434e4.png",
+      "sha256": "6da0da4c4f4901bf51dbca01f563f57a34bb586a13ea7bca4b5aca15145e1f9f",
+      "size": 75891
+    },
+    {
+      "path": "assets/source/76eef874122370a1c15f.png",
+      "sha256": "030a788fb6e5ed9db5923bc6733c28b4522eb84f1959c546445badb81f742f3b",
+      "size": 99357
+    },
+    {
+      "path": "assets/source/7a277ad156554585345d.jpg",
+      "sha256": "fde35de3b3566de3f77e53d3d81dfe36b1e4c43aae3c44f75dc82227ff34c061",
+      "size": 154625
+    },
+    {
+      "path": "assets/source/7a5e8838966e4c09b6c6.png",
+      "sha256": "3a0d7b0f56fafd15b4ee156a52314e31076a26de03a509470da09172a1763a83",
+      "size": 37658
+    },
+    {
+      "path": "assets/source/7cc02f445806c7c4af6c.png",
+      "sha256": "79ddd649712054d2d1a99544ea6475f57148b88d76f94600807b1a464071f0c6",
+      "size": 76447
+    },
+    {
+      "path": "assets/source/7db28e5f2b674a0e302a.png",
+      "sha256": "7a79113dea4e7b733f533e56551fd848524c44ee5958d2f84dc52a9795b86a2f",
+      "size": 24138
+    },
+    {
+      "path": "assets/source/7de04be192082342fd15.png",
+      "sha256": "b40cbb1ffee7396933847f2cc78d5ccb63ca34757c13ad860890178e736c85a4",
+      "size": 79396
+    },
+    {
+      "path": "assets/source/7e9be206a32afe8a3e47.png",
+      "sha256": "f40ec1f1566a86da64fd355619ced7256a6da348211a20735fce915241c03a49",
+      "size": 100619
+    },
+    {
+      "path": "assets/source/7f11ad49d345f3e6b071.png",
+      "sha256": "f9f924df32bc91595b59675b255208d0c493a0998851f5f10a10734a86df3546",
+      "size": 319341
+    },
+    {
+      "path": "assets/source/7f3aff3e89b17c8d232b.png",
+      "sha256": "3c7e6d0e98d43afb6f9db1ca771d55435ff5a5900cce00742b28d2a7b1a87e5c",
+      "size": 112157
+    },
+    {
+      "path": "assets/source/7fd7e66fa76299ff174a.png",
+      "sha256": "914b63fc4e9885b04eb634233f710aa3a7f196a8ebe0b764a0c4d904c1cd1524",
+      "size": 81066
+    },
+    {
+      "path": "assets/source/813e3499a83b7dea842c.png",
+      "sha256": "4525ef1652846ff36c2b9b34a8706a477b89b36e3540d8086cc8f1e8fa1279ba",
+      "size": 42571
+    },
+    {
+      "path": "assets/source/82387b7adc223784f983.png",
+      "sha256": "0f19622446c0190591e3fe9594d87e60cffe4d3053f70bec66e2cb03d2d6f435",
+      "size": 50294
+    },
+    {
+      "path": "assets/source/8437705a9d379ce80341.png",
+      "sha256": "e963a7c021e73480af73b1df815db94101d09c8acd3e634ab827ea4fb69053ee",
+      "size": 45141
+    },
+    {
+      "path": "assets/source/848d1e28e31ca0577335.png",
+      "sha256": "3537847647f6c226a52316293b105c576cc1d4e4f975fd5e2548e2df0a808f7c",
+      "size": 115941
+    },
+    {
+      "path": "assets/source/84b6e3fd7751f4f6949b.png",
+      "sha256": "5aeafee53a5d0b426fdbd29a5d041a8c4a604f857c08b521e7ce5b1ba0daf384",
+      "size": 24106
+    },
+    {
+      "path": "assets/source/84d00118cc82b20336ec.png",
+      "sha256": "2483d31e24d871129a31ecabdef910417a26dd3d878c8a2f6fdf0e7c297b198b",
+      "size": 39232
+    },
+    {
+      "path": "assets/source/896b17b286888c090507.png",
+      "sha256": "961a224b8cc8af30a2183ce4338893e24084ea4a8e33684dc52818a1587f2f25",
+      "size": 50091
+    },
+    {
+      "path": "assets/source/8aabc625caf00253c461.jpg",
+      "sha256": "9f2ac3ada18b996032aa935b2b6064e9984f9f921272408bc2ad0de92ae87bc4",
+      "size": 157557
+    },
+    {
+      "path": "assets/source/8d3dc7edc797bdacce02.png",
+      "sha256": "9bafe7cda9f77de40056e7bc76f8d9d107ad064a1b8d11cf08fecb6b4af785a0",
+      "size": 372046
+    },
+    {
+      "path": "assets/source/8db5e04a14660877b3f9.png",
+      "sha256": "8fc1d941e4111858443900f3007458c8c54cab8a0835c842da79baa116f536c3",
+      "size": 167314
+    },
+    {
+      "path": "assets/source/8ea83896e608f44da701.png",
+      "sha256": "3e871e7cd1b362554d5c2c89263dee1d85179e914ed15bac79578fc87a0392e6",
+      "size": 44771
+    },
+    {
+      "path": "assets/source/8f142cf0bc6c64e34836.png",
+      "sha256": "9b5d964238bb48d16f6c60ecef3a318aa02ad542623c84478ef0c2e2aadcdc8a",
+      "size": 47507
+    },
+    {
+      "path": "assets/source/8f22d663d77412c5f23a.png",
+      "sha256": "f255866f788f288932ee295e2151191732fbfd8aab755d8ee1801e00914c3cbd",
+      "size": 66329
+    },
+    {
+      "path": "assets/source/9095932eea962306e12d.png",
+      "sha256": "ed953520132d2d9ca69e0760dfb1fbd045fa48441efb51823f9bdaee47a936ab",
+      "size": 111952
+    },
+    {
+      "path": "assets/source/909b61b5b4fa66c9b39a.png",
+      "sha256": "eaa47d82fb94ca62b2b63dc201eaa819b568ed171b3546d0a837c421f09ef337",
+      "size": 9114
+    },
+    {
+      "path": "assets/source/912f7ca9a980505d7dbe.png",
+      "sha256": "50f1eb093fbc3b72b19acc1bfd5f62c637197757a67b41ea375d370f3df74457",
+      "size": 107299
+    },
+    {
+      "path": "assets/source/93c520f18b70976aa380.png",
+      "sha256": "86b7244232c1a63124aeb0f4a7363c9485d36fbf927e5dc85add64caea9908da",
+      "size": 65547
+    },
+    {
+      "path": "assets/source/93c74599722cf8bbf292.png",
+      "sha256": "53b081d97de2feb10ff216bbcd2072ccd547c2969df35f1fd30df4939b74d013",
+      "size": 40880
+    },
+    {
+      "path": "assets/source/93d83cb103824128ae86.png",
+      "sha256": "689196a32218458a693514950be88fe16215e2b793dc97bfed9c90a178a90fd4",
+      "size": 41314
+    },
+    {
+      "path": "assets/source/94e646ff1793825f4bf7.png",
+      "sha256": "1f18ff28bca28b6464522ba9754498566c48cbe97dd4d8abcf68f529ca0010c1",
+      "size": 42231
+    },
+    {
+      "path": "assets/source/9884d34a02ce1e435116.png",
+      "sha256": "ac134bf0cce56d4eedc46a1ae17c324ed700ac0a8f1d37852798c3ca881024f2",
+      "size": 86638
+    },
+    {
+      "path": "assets/source/9953eec4a64aa98bd484.png",
+      "sha256": "74603a09829261c60da74a7adbb3e834bdb1cc86ef03c7abfd88142158dfa9a6",
+      "size": 112879
+    },
+    {
+      "path": "assets/source/9cd3b0598b174409212e.png",
+      "sha256": "05f539453a98ac07d9a4aca9f88946001229d981ffb8a9c1997002307d66e8fb",
+      "size": 30959
+    },
+    {
+      "path": "assets/source/9d0ba817c282eea0ba39.png",
+      "sha256": "1376368e17119837a61afa06ec87ab95cb3eca3e671e66eb98e452bfa75106e0",
+      "size": 103683
+    },
+    {
+      "path": "assets/source/9e469cb9a3b8e8885e95.png",
+      "sha256": "c7312ca51a812630be885a7412bdabb0688ecf14c99c1fc1299258afcc64e478",
+      "size": 142315
+    },
+    {
+      "path": "assets/source/9f364ab410868846e4fc.jpg",
+      "sha256": "b737a66b181c8ec0399a901f30536fbf9f3c7ca8b338ad3a73527ffc66e51514",
+      "size": 314501
+    },
+    {
+      "path": "assets/source/9facdcbb068c45191fc2.png",
+      "sha256": "c590c69bd4ce2f1615054d2ffc47b717487f0bab50df0ab245733f78ea40aba4",
+      "size": 179654
+    },
+    {
+      "path": "assets/source/a0da60969e29bf39ec88.png",
+      "sha256": "423fbe3c1b6cf3a106629b1f88b1ccc90065d7155111af5b4c5f68d06959323b",
+      "size": 43417
+    },
+    {
+      "path": "assets/source/a10340d7f779865db453.png",
+      "sha256": "ea872a1464c78284ca8e26d137097df52d16946e9ad85c3c969a43b0c13178fc",
+      "size": 43767
+    },
+    {
+      "path": "assets/source/a22243c31b72959cc5eb.png",
+      "sha256": "e815561c5ad5cd3f0aa64a5163cba71ba2c960e13dea2cab5ba0c6a21bcb5ace",
+      "size": 240541
+    },
+    {
+      "path": "assets/source/a22e79bc79f35a140dd7.png",
+      "sha256": "ec1119b6ee462d156dddaedc7556d00121e8aa9bf25de3694fc40df887a92ae7",
+      "size": 108357
+    },
+    {
+      "path": "assets/source/a3a159b5d7c46cc61e2e.png",
+      "sha256": "8f89647ccfe33aa942912d20f4e54b780e56fe5f648a8abdb806aae67d2690c1",
+      "size": 156052
+    },
+    {
+      "path": "assets/source/a3fcee8ac665cbc23602.png",
+      "sha256": "ef1f358783cc0fc4af6c0ff00b93d04ddc8c3d11eec832c9fdd070a7a6f4cbbe",
+      "size": 40868
+    },
+    {
+      "path": "assets/source/a57639e1a6f62ff92c73.png",
+      "sha256": "700bb405f6845aaea55cb11c883e5c7fca32e45c444ce0008732e306857c8646",
+      "size": 75773
+    },
+    {
+      "path": "assets/source/a594279aa1ec2ea7fc1c.png",
+      "sha256": "3077fd1c5cad1bd78b126fdfe121c2d0f21917214f5e57563ca02fd739a4f0ca",
+      "size": 13846
+    },
+    {
+      "path": "assets/source/a6cf3068ec48a0b3a952.png",
+      "sha256": "1d5308281404fd11e818d5d6e092af3d82d239a8a9d0f8296101e65090c14dec",
+      "size": 83300
+    },
+    {
+      "path": "assets/source/a8309b70a7b2c2852809.png",
+      "sha256": "0c78fe410873ab8107eae77564a845d5af8c8c1a144f0043ed3083c40e49fd15",
+      "size": 62353
+    },
+    {
+      "path": "assets/source/a8312cdebdd6242aa067.png",
+      "sha256": "ebe76eee7069eb51e494709173e2c70a76b69b1e1c1a9525f23f534b06452de0",
+      "size": 106037
+    },
+    {
+      "path": "assets/source/a9c9383c0412b47541de.png",
+      "sha256": "240e9af09cf070fd0be75a70eafdacd1e86d8183d01cc770ed0d6a51292a86d5",
+      "size": 51669
+    },
+    {
+      "path": "assets/source/aacaabdceef16249f8a0.png",
+      "sha256": "980396ddbb1af79975402dd50a9261c70dfca5152cd85fee111418d2a2bb0759",
+      "size": 40950
+    },
+    {
+      "path": "assets/source/ad2fe2b921b40e2adf81.jpg",
+      "sha256": "7d46d57a9e26f2987cf5a58fcc942adf77989e662db0732210984458457ff129",
+      "size": 410508
+    },
+    {
+      "path": "assets/source/ae2c0e4b76be953b0a37.png",
+      "sha256": "04852cd87f9e08372ded8b2d10c5463aa00536ff545512445b74126330058095",
+      "size": 335884
+    },
+    {
+      "path": "assets/source/ae968db4dba918a68f8b.png",
+      "sha256": "4ed6b81407120a0ff21af551e8b1dd1e66b7c5261ff936aeccc336553e0749ab",
+      "size": 138163
+    },
+    {
+      "path": "assets/source/b0c44d649d3fff9928a8.png",
+      "sha256": "c6bbf72ceaed8fbf63a31c7eb1e7339476185a0265b02896b9f7eeb3e63e92b9",
+      "size": 17311
+    },
+    {
+      "path": "assets/source/b176ce63fe4bf134a156.png",
+      "sha256": "7294b5aa91520e4bc6b0df005ed1758e12842215fdb4f29c8eae81c4092bfc55",
+      "size": 42963
+    },
+    {
+      "path": "assets/source/b199ac7cb06090e8dca9.png",
+      "sha256": "1c302221195d4ea438c9941e1431c4f39abe1a73d87f4c09c778616204963d2c",
+      "size": 16582
+    },
+    {
+      "path": "assets/source/b322250df6d9adc3eada.png",
+      "sha256": "2703909004e68cecc7a3113bbc26cf5f0c8fa7e77d7013a274200dc2752d816c",
+      "size": 85698
+    },
+    {
+      "path": "assets/source/b43dfcd1902d4a00321d.png",
+      "sha256": "239dafcaef783ff285b9995d794cfe3673a6da30b63f21f8ec5bd6023b892a0b",
+      "size": 204769
+    },
+    {
+      "path": "assets/source/bb5c81b69199993d427f.png",
+      "sha256": "cfac632c5ae0ed35cabd8e147278afc4085d1e5c2e6f89d1136d4b67159308b0",
+      "size": 49073
+    },
+    {
+      "path": "assets/source/bb90b57c14dc8c334a4b.png",
+      "sha256": "52bf209af7d3cbb5b3b3932530ae24543fc5bfde3f4c552d88aa24ab82bc2058",
+      "size": 44903
+    },
+    {
+      "path": "assets/source/bcc43a2775f8d68453ac.png",
+      "sha256": "6b1ff20856c3894d622f5ac1530906e0859396635d07f08b8780b5d53f924307",
+      "size": 8937
+    },
+    {
+      "path": "assets/source/bcde8d41fdc35d325329.png",
+      "sha256": "50fc79e0acbe096315835f1cbc187f51341352f73a0320c3cda89b6446de7fcc",
+      "size": 169025
+    },
+    {
+      "path": "assets/source/bd0a1ca13bf0b707a3f4.png",
+      "sha256": "d6fd2ab0278c010bbee33a504d86cb9d1082c75788980f5327fc9eb023555998",
+      "size": 196794
+    },
+    {
+      "path": "assets/source/bd72b08779d99a7dac83.png",
+      "sha256": "3c3038d0a055531e3165e9ef5ca1476666d3e7dca903d8630bbb2eb6d4382b09",
+      "size": 92372
+    },
+    {
+      "path": "assets/source/bee883ff2162714c8d39.png",
+      "sha256": "041dfe98299541c007a39f8ced48d0117e245720ea91c14e6ff262e643ce1231",
+      "size": 40603
+    },
+    {
+      "path": "assets/source/bf5a62e19a42066af86a.png",
+      "sha256": "d52c7b48a4934e519783e5d9f2743ffc2bcfa24555cf540140315ee459800bb1",
+      "size": 21773
+    },
+    {
+      "path": "assets/source/c082e3534454c4c403b6.png",
+      "sha256": "e84f85e0dc482855c062571883b0c3684c1eb37006d14641e812b3906b5d411f",
+      "size": 77082
+    },
+    {
+      "path": "assets/source/c150c9c71e0c2b113f1c.png",
+      "sha256": "26e8464a3c0f82661a4b611786cdb7de80f2de5f86346f46a718e343bb619e49",
+      "size": 18769
+    },
+    {
+      "path": "assets/source/c1805f265e6494f367a2.png",
+      "sha256": "64197bea20affd405af676e0b70a66c0cafaa7bcec4dda17fe013253c9c1245c",
+      "size": 103194
+    },
+    {
+      "path": "assets/source/c2eadbaad0eae3aaa3da.png",
+      "sha256": "f1bd1eccbd0e245f146f288398965488c8f5ca4a9af8d98a3aed10050dd6d66c",
+      "size": 78841
+    },
+    {
+      "path": "assets/source/c35f316c89bd3e2c217e.png",
+      "sha256": "84f4fe93187cf191adf5980df4280adc9e1439ef9881d0118f7aeab74b33bef6",
+      "size": 70809
+    },
+    {
+      "path": "assets/source/c3ab4ce6899e668f50ab.png",
+      "sha256": "5da1617921fe50a51d970d6a5b67354e9a724c4b69914b7879da67e9469f7819",
+      "size": 77977
+    },
+    {
+      "path": "assets/source/c4a6ba18a45287adb59d.png",
+      "sha256": "fcbd158efdce6c07749c10415ab4d9a5a1905524d2be790da745fdcf8e0b9cb6",
+      "size": 43331
+    },
+    {
+      "path": "assets/source/c4f262cdc9e5c4ab356d.png",
+      "sha256": "1419671a0ef2f374fd3efa2281e8f5cdd570da58f763ddc0d2753d94bb7ae8e2",
+      "size": 113528
+    },
+    {
+      "path": "assets/source/c7f75ec9dc01e2e1ee58.png",
+      "sha256": "3ad12eb1adc4321caafbc1519f0eacfe1a72d16fd2f0aae53266c6d9b9df6399",
+      "size": 130112
+    },
+    {
+      "path": "assets/source/c7fadf358990e542b469.png",
+      "sha256": "b05da88a9ec37566a3c6bfb691114afe1d571a65786e29046951b01511aacafd",
+      "size": 10226
+    },
+    {
+      "path": "assets/source/c908db1f7be95c9e2df2.png",
+      "sha256": "2ea2cb5d1b86094cc6390eb81846effded9d59680580a6acc23f317952d54ce7",
+      "size": 77605
+    },
+    {
+      "path": "assets/source/c9bbe1e6e50b72c94832.png",
+      "sha256": "b0c98b51693ffea53a3c3a85e441c884478fcbb33976a48805b1c566a3351428",
+      "size": 82476
+    },
+    {
+      "path": "assets/source/c9ebf200826e7bd17937.png",
+      "sha256": "94fee0da4b78dfc90828f2ae558f9ba9237602c97488782610b86b6a3679dad6",
+      "size": 106787
+    },
+    {
+      "path": "assets/source/cb9968205c008ea9ff71.png",
+      "sha256": "62c8a50a1240b691e649a79cbb9366e6043c0c92603ef8fad7537abc5f447f4d",
+      "size": 136917
+    },
+    {
+      "path": "assets/source/cc267e4644735b7df6ae.png",
+      "sha256": "5825eef9d4f1f7d01f5f1fd803b32c1fa2ce67eb331c6e9bb91fd41fc2fb445f",
+      "size": 213054
+    },
+    {
+      "path": "assets/source/ccbe85ada23f9f67e4ac.png",
+      "sha256": "64b4f799ba2781dfc1d6e30e89bb0adbe4ca46bf5c2dbb631da74c68f41517e8",
+      "size": 80865
+    },
+    {
+      "path": "assets/source/cd2e7faf0f510bd18718.png",
+      "sha256": "7e2f336c8836c270eb56f1bbb72d758dc8caa18ca1b6d6e6d32cf8983218d125",
+      "size": 13807
+    },
+    {
+      "path": "assets/source/ce87737ed559a0275690.png",
+      "sha256": "805ff2e17384843cbaebee0eb932e094a56936b2fe5f53af6dcad4c94e5366b7",
+      "size": 44943
+    },
+    {
+      "path": "assets/source/ceb96be5d3e86c59e954.png",
+      "sha256": "d86003bea168154788b898888442dd1b34da85a3f97aebaeedcad2f7e82ab185",
+      "size": 52491
+    },
+    {
+      "path": "assets/source/cf59e956de4d7376aad6.png",
+      "sha256": "91d6763fc935ece6c67aff910e6bd27f308957d5a094552040c1cb3c6805acf3",
+      "size": 36220
+    },
+    {
+      "path": "assets/source/d2d48846ead79af05e44.jpg",
+      "sha256": "b93ed60d56c7ee7b0050682d3af43aaeefdce456476872ba351efe2111df2cfd",
+      "size": 153829
+    },
+    {
+      "path": "assets/source/d55ee9e2a1531ff4b58e.png",
+      "sha256": "def9ab5eac4050f538ed60f655632488c7ed3021c3a1f90eaf86fd6b46bc6f58",
+      "size": 44970
+    },
+    {
+      "path": "assets/source/d60347cb682bb5b88d5f.png",
+      "sha256": "0a543a8b8d21041ea691de4e39e52429ed7b09671b703fb71e35ae36d80b7815",
+      "size": 140775
+    },
+    {
+      "path": "assets/source/d6aab45fe9c59adbbb93.png",
+      "sha256": "52ad32f91e27ca01a896302f4bcabca415cab7a3905fedc7c266c2f1b49f94d3",
+      "size": 52643
+    },
+    {
+      "path": "assets/source/d714b8ba08e247c60c1a.png",
+      "sha256": "02f291cd17c39b7c39c3b9fa8e42b0e7468ca9eb0cbde1181c7adacaedad308b",
+      "size": 48789
+    },
+    {
+      "path": "assets/source/d73718e3f9b7eb584ece.png",
+      "sha256": "029ef4212ebaa61433f1a636f0740d34b76fdf152bd9c7614d34bab2e6001db3",
+      "size": 143541
+    },
+    {
+      "path": "assets/source/d7f5a4d842a359394934.jpg",
+      "sha256": "a738dac539a9442231977f855d873c1fca79745c26fce1923f6aef802a3cac9b",
+      "size": 270378
+    },
+    {
+      "path": "assets/source/d8bfaa2fe3f6615c8719.png",
+      "sha256": "b26c177741b3cf407dfa6c69d0c6cf63e093b1db199fa7d5ad82b98dc663fe50",
+      "size": 349605
+    },
+    {
+      "path": "assets/source/d905686783b88d3618b7.jpg",
+      "sha256": "2960811098cdcbca8985d67f762ed5b30aa53143218925d8efab13698fbab9cd",
+      "size": 13609
+    },
+    {
+      "path": "assets/source/d918206a7f2af0ba1def.png",
+      "sha256": "6fd7dfaa52957247f463e7435be2137ed0b4ab21b0986760750a58fe2e32df65",
+      "size": 84953
+    },
+    {
+      "path": "assets/source/dba5d9206a50a2be4d5f.png",
+      "sha256": "0e8ec64dd5ab7e9541ffe5f872a6c3e8814fd21141616b34985a6eeacdb51548",
+      "size": 44419
+    },
+    {
+      "path": "assets/source/dca58c115400f4f34bb4.png",
+      "sha256": "ce36423ca90466776e5a4cc08a70dc29f8d48b7c3ce666a0a98ff4734835607b",
+      "size": 233688
+    },
+    {
+      "path": "assets/source/dcefa2cce0e9d6957f67.png",
+      "sha256": "fdceeaf80550a7aed1132fac58476f3d1d3cf338372d4cf9a2e8fc79ccbce8f1",
+      "size": 44202
+    },
+    {
+      "path": "assets/source/dd91367bae7251545e63.png",
+      "sha256": "ec15182930e71f8252e610c1aa4f5bfd7d32ebd8223858306d83584eaaf51f1d",
+      "size": 86537
+    },
+    {
+      "path": "assets/source/de93711bfbdf140cf691.png",
+      "sha256": "ee8dbe027413fd48f6771ceb8af028825c60f612c3fada30ca6ef1078910d836",
+      "size": 69041
+    },
+    {
+      "path": "assets/source/df4c5b73916f394fb916.png",
+      "sha256": "26007bf910c0d76afecfa5aaca321a10043717ceec0b6a7c51ae5cd1d5061255",
+      "size": 6167
+    },
+    {
+      "path": "assets/source/dfd17c827c1c0085564f.png",
+      "sha256": "596a7f05d13c57152b77fdbf5e6789a63534af9e92f74cd336b0bd1faca130bf",
+      "size": 44550
+    },
+    {
+      "path": "assets/source/e0f1e788ad0bf31a3686.png",
+      "sha256": "372c34d27dee539d8bcde68fb86f19018e38930691af7e6a07507c427872a352",
+      "size": 259067
+    },
+    {
+      "path": "assets/source/e2879be073ad17f5b130.jpg",
+      "sha256": "644cded61c2471b3b124bedad664ef0f884ee4978ee1820031ea137c1c4c4523",
+      "size": 256054
+    },
+    {
+      "path": "assets/source/e2a15a2776c03ccbf7fd.png",
+      "sha256": "5d1b58468d3593b2ff560956dc679260e0ec9ca1c3762060b20eb564c749095f",
+      "size": 20600
+    },
+    {
+      "path": "assets/source/e3960b0e9c09bfbf915d.png",
+      "sha256": "1b0e6512095cc875bbc1050effaad8abf13375db7497125d8cb4e561ad2b63c9",
+      "size": 106822
+    },
+    {
+      "path": "assets/source/e48883aea311d7699553.png",
+      "sha256": "8a0582b70b12b4bb42c093bc4e925472f730105d45ddd7af9336f63dbbeb2257",
+      "size": 60089
+    },
+    {
+      "path": "assets/source/e4cc8f91999eae9a575b.png",
+      "sha256": "fe63cb0b80bf9182a053bf54a9ebe9d2276c579e18f338f58f25b3ee3bfcee74",
+      "size": 9063
+    },
+    {
+      "path": "assets/source/e72313a004445cc171be.png",
+      "sha256": "834ff30bd62314a7b996202551f7b4fff2ade3cfef20e58fbc774746b2fd47c6",
+      "size": 156806
+    },
+    {
+      "path": "assets/source/e7294fc5e25a51d58d4a.png",
+      "sha256": "0edeb4ac3617508486147ad20106596159bd17614a325689ba9ba03987f66184",
+      "size": 86210
+    },
+    {
+      "path": "assets/source/e80266a7f28f8b696460.png",
+      "sha256": "c8124f6310e1227160dd888aaf33aeb1b932a5b20daa48b5ea9d7238a0c72701",
+      "size": 108818
+    },
+    {
+      "path": "assets/source/e847231dd0503b4f17f8.png",
+      "sha256": "c8f2908de5f1c4c5399b1da63527458378578e9fcef5ff9f66fac242ef85efd9",
+      "size": 165146
+    },
+    {
+      "path": "assets/source/e91482d59774c6fc4637.png",
+      "sha256": "437a16ad2976c253c4705d0bb5a99a921cb327572b97edd84f3b1dc9beba2eb1",
+      "size": 71041
+    },
+    {
+      "path": "assets/source/eb67c103cf8780fa5fbf.jpg",
+      "sha256": "d925e9e8b7b46ff3991549cdef9c3ae010cc53011f04ea24626d823e6bb32442",
+      "size": 159365
+    },
+    {
+      "path": "assets/source/ec297417af73aef9ff7d.png",
+      "sha256": "5a2409da3f129b6823f1439256685cc32e92b68750f2300669116e8348f0f989",
+      "size": 86508
+    },
+    {
+      "path": "assets/source/ecc1e87e18be91a68631.png",
+      "sha256": "1cc209830c8b5fe73bc439f40f4f2cd466fa811fa4db86a0c59554c76f3a0777",
+      "size": 41374
+    },
+    {
+      "path": "assets/source/ece1f6d1af1801cf4a08.png",
+      "sha256": "1deaaac1421350541e54be4d1abdb8ed15c3aa15c40d75a18648ba39828a8f14",
+      "size": 87023
+    },
+    {
+      "path": "assets/source/ede7b1df159829faf5cc.png",
+      "sha256": "beabf05a426fe7e8cc030575e81ce8cf692f801eed2889d75b6ba2e7dfa7a222",
+      "size": 191154
+    },
+    {
+      "path": "assets/source/edf08d6a78a7ddbf8953.jpg",
+      "sha256": "73ed7ed9742b0f91319b8d39264a12dc95728d533726f3ba70e4cc5c61faec5e",
+      "size": 359133
+    },
+    {
+      "path": "assets/source/ee058fd240341658e83c.png",
+      "sha256": "3a6a5223c0e6cbbbde9f72edf978373b3076ba1f69f2fcedd29cd208fff55108",
+      "size": 83505
+    },
+    {
+      "path": "assets/source/ee86249d561acbde9145.png",
+      "sha256": "9b36a8af1d6943366dcecccdd82f864db83e6fe0d5eeec0a760d75d1c2601d2e",
+      "size": 30961
+    },
+    {
+      "path": "assets/source/ef61019bec05bfa6f58f.png",
+      "sha256": "6ddb7d24733d4c02cad3729b0effc8dd99c4c754f5aba8616e5593907e4f47b2",
+      "size": 109051
+    },
+    {
+      "path": "assets/source/f16814437d70b0bc5893.png",
+      "sha256": "153b4eeb3117dc8386c2d5abdad6936e26685c80565374996b6be4e904d0b1c4",
+      "size": 85908
+    },
+    {
+      "path": "assets/source/f296d6d0458aa76af5ee.png",
+      "sha256": "39d94de75970f9a8a14730f823b3b30be445452947aae9da79007cdfe8609c7e",
+      "size": 21066
+    },
+    {
+      "path": "assets/source/f49048dfe47590412fde.png",
+      "sha256": "aedf72b9f892f9ca964f19a0ea22c95ec2d9d1ca9937cc4b152f7d9cdb0c049f",
+      "size": 163596
+    },
+    {
+      "path": "assets/source/f56936cb5be94e275b85.png",
+      "sha256": "99feb5d907b861d2dd63e93e0a833eb1994cdecc189b061b9b652aa7752195e3",
+      "size": 123392
+    },
+    {
+      "path": "assets/source/f6170864147ce0d3e418.png",
+      "sha256": "b0e5f9c82a0f95610da9456e496bae1d394086d17827da88eefbcd0f023d0b7d",
+      "size": 42154
+    },
+    {
+      "path": "assets/source/f89b4f1f72be226f7cb5.png",
+      "sha256": "5a3aa9facaffeca63c5fa674ff4d363822ae881a1d2afb621cc5a9af0d815044",
+      "size": 32056
+    },
+    {
+      "path": "assets/source/f8aff77248a100d5e05f.png",
+      "sha256": "865c90d3d0dc08ad33c658515fd429e4ea548f715956548b5787b22642e3ca8c",
+      "size": 108862
+    },
+    {
+      "path": "assets/source/f93d34ba06f23ac8e84d.png",
+      "sha256": "5b446020f4f45fa73eb9a83412095dd35ee552b86fc2c2f0f8f1ffc102d29a62",
+      "size": 38895
+    },
+    {
+      "path": "assets/source/f9a6426ea700794e8e89.png",
+      "sha256": "93ded66d456273090605ee51534d3995e62710cca291663dcd7e28e4860922a5",
+      "size": 151394
+    },
+    {
+      "path": "assets/source/fb6ee99319f18fea7236.png",
+      "sha256": "a20b8c7f75072bcb3a16bb46a0e7bbae12bad5352e6ae68a007e54c9aa00fc72",
+      "size": 41078
+    },
+    {
+      "path": "assets/source/fbc85e84b0497bd63194.png",
+      "sha256": "2dde908a359a82c89013a54439b47f6ec7da0a5a6bb2a15b575cb53d8ffe3a43",
+      "size": 44632
+    },
+    {
+      "path": "assets/source/fce441c601526d8a2d55.png",
+      "sha256": "e1b158ff416ce7254fc0d9e26acd2dce071b8a11ade3908c839ddacf618ed3ec",
+      "size": 335142
+    },
+    {
+      "path": "assets/source/fd9a97764160aa0054d8.png",
+      "sha256": "726c9a78e7fdf6c488b2c86ee7f96baaa42b66a564243784a92d0f6592912f93",
+      "size": 43616
+    },
+    {
+      "path": "assets/source/fded91a9efdb24410904.png",
+      "sha256": "2c0416461a044b7b082e69165f8c70cc0031f0788f327aafc56f5242255a23b2",
+      "size": 28341
+    },
+    {
+      "path": "assets/source/fec21596e371f95bb82c.png",
+      "sha256": "eb56ae7c1c2e6cee508e19732e99d6f380205ee606d078d2bf3d08db5e5cf15a",
+      "size": 144548
+    },
+    {
+      "path": "assets/source/ff1a6513d1ab8efa78bb.png",
+      "sha256": "74f68c438ab8206f5042c0d8f800ab47bcd37a78b2473488738face46acd4169",
+      "size": 6270
+    },
+    {
+      "path": "assets/source/ffd90069fa719f8bd908.png",
+      "sha256": "3668a955e1ef626999326b4550eab7c83fb128eeb062d4a769855392100ea35a",
+      "size": 96813
+    },
+    {
+      "path": "b-flat-e-flat-a-flat-major-scales.html",
+      "sha256": "2c8b3a04381d3b4a0fdbea22ac2fbc068995d45671aa4ac8bb182c3346d1faa1",
+      "size": 39273
+    },
+    {
+      "path": "b-flat-major-arpeggio.html",
+      "sha256": "1439333d26b626d76c65187cda71a983540253bfa1b3b91dbe9bcb470f99ebdf",
+      "size": 29061
+    },
+    {
+      "path": "book-print.html",
+      "sha256": "f4bfaa6d924f96e992f70545fa17f4cff4ca97b9514cc43fde5f93bc4edbe283",
+      "size": 1319909
+    },
+    {
+      "path": "build-and-export.html",
+      "sha256": "5c9a2ffc0ce278bd2ac0fc9bbdd55a57d12e1afada37ac7a230a95bef2b03052",
+      "size": 28414
+    },
+    {
+      "path": "c-major-scale-hands-together.html",
+      "sha256": "d56f3db08eb9f7d1a071cd6aed7f71550b337170c83a8d70af0f0ba2bd6bf2e0",
+      "size": 32700
+    },
+    {
+      "path": "capstone-project.html",
+      "sha256": "677b379c626233129ce0b849bf2e8a1765636009ab278e3ded97f69baf2dd581",
+      "size": 29988
+    },
+    {
+      "path": "chromatic-chord-crawl-1st-and-2nd-inversion-triads.html",
+      "sha256": "c1e4d4fe0ce9857d361e87d3cf5369501e8bfd120a3a19849d0fd8465db065b3",
+      "size": 29841
+    },
+    {
+      "path": "chromatic-chord-crawl.html",
+      "sha256": "113ba5605a8aea96816094cda34a00e820977c6e9668af36ff78527ee7c02f14",
+      "size": 31904
+    },
+    {
+      "path": "chromatic-scale.html",
+      "sha256": "e98b63ab8f6f4d3ef301a276c4279d6bb542fcef72daf59cb72aa82168f72e4e",
+      "size": 28755
+    },
+    {
+      "path": "chromatic-whole-tone-and-octatonic-scales.html",
+      "sha256": "3279265e61a7fcd70a67fd4dc208b6cff291f729e248221c439c6239084c69d5",
+      "size": 37768
+    },
+    {
+      "path": "class-piano-i-skills-and-topics.html",
+      "sha256": "87a53c0f61b20f4efe4b7c92a834bd55d413585f520ae4fbf1d68724cdbca554",
+      "size": 28943
+    },
+    {
+      "path": "class-piano-ii-skills-and-topics.html",
+      "sha256": "19edf0474e109494eef125eff6871496a6495c39ce6792ec6e5815f7a437fc03",
+      "size": 30009
+    },
+    {
+      "path": "class-piano-iii-skills-and-topics.html",
+      "sha256": "5b6734488194918cee178576ed8adaa3ff4ec0ec64686218f83ef218b97c79bf",
+      "size": 29796
+    },
+    {
+      "path": "class-piano-iv-skills-and-topics.html",
+      "sha256": "1ba41fc1df34a7b4a8357b349211fa059850321c3cbaa8271de8683076c59602",
+      "size": 30521
+    },
+    {
+      "path": "commissioned-work-by-chee-hwa-tan.html",
+      "sha256": "42bb856d4f4de991a9600fe822eaa480e549d2729fbb21498de5e32797069d2e",
+      "size": 31898
+    },
+    {
+      "path": "commissioned-work-by-connor-chee.html",
+      "sha256": "974db59cc8807627494c51d7103536463bc7425976357cd5b1a7d89c67440eda",
+      "size": 31264
+    },
+    {
+      "path": "commissioned-work-by-leah-claiborne.html",
+      "sha256": "8261930fd40cc5645830bf0e61f1cd269ee395d304b7e37d15cdb3254d5ed614",
+      "size": 33361
+    },
+    {
+      "path": "commissioned-work-by-mike-springer.html",
+      "sha256": "8567fbfd1a430167df26bca9f86b82fcb442c58e6fb69819ed891611b4916356",
+      "size": 31006
+    },
+    {
+      "path": "commissioned-work-by-mona-rejino.html",
+      "sha256": "9bae7557fbae834c23b3d87c001a7b03b2a9ff746294b258d3c49e94d3ceda9f",
+      "size": 31512
+    },
+    {
+      "path": "content-map.html",
+      "sha256": "7274014567ee7ae4ed29071d3357f022dd7ee0d23e1c9bfa4b18baf69e0d6832",
+      "size": 71075
+    },
+    {
+      "path": "contents.html",
+      "sha256": "369f7661a29434fef837418a01d30658fc96a9f16ff77a43d966d078189a23f8",
+      "size": 46113
+    },
+    {
+      "path": "cover.html",
+      "sha256": "0c85d442706042788980a45a054087392259ed6d07fb38a348d3c3c972b2605e",
+      "size": 26159
+    },
+    {
+      "path": "cp1-unit-1.html",
+      "sha256": "ca7e835238af6b19e67c7b992cd1adfd1805657add1ff39c6a5149f15019a6e2",
+      "size": 26882
+    },
+    {
+      "path": "cp1-unit-2.html",
+      "sha256": "4adf46d37f1646867d025987535f39e8ac19f30651f1eab608e835a9fd38d95d",
+      "size": 29025
+    },
+    {
+      "path": "cp1-unit-3.html",
+      "sha256": "8038bc0ecbd2fd8e98416a19c92c53b27f28592fea1728ae26322e1bf1f24127",
+      "size": 27706
+    },
+    {
+      "path": "cp1-unit-4.html",
+      "sha256": "83854c419b5eb091b00cc9ff33f0107cb347f91d3cfcc0d17ff9e9a85bccf2bc",
+      "size": 27453
+    },
+    {
+      "path": "cp1-unit-5.html",
+      "sha256": "f676255307677053f8a7b10dd54ced7e70899d15222af387589acf184f964eb8",
+      "size": 28094
+    },
+    {
+      "path": "cp1-unit-6.html",
+      "sha256": "652902c17b299fcc4c8d87a6457715aa8321d763beb71d5bb3405b1eeed5e7f5",
+      "size": 28196
+    },
+    {
+      "path": "cp2-unit-1.html",
+      "sha256": "40d371a6f418350785b3ab02193bb8ee85e62eaacc936a5b9326be505bed9090",
+      "size": 28531
+    },
+    {
+      "path": "cp2-unit-2.html",
+      "sha256": "05774806569416257fddc603185c2bcee771bc777e1892c0f7d3275eb5a2689e",
+      "size": 28564
+    },
+    {
+      "path": "cp2-unit-3.html",
+      "sha256": "8dbec318bd19b5d755c569cb71c313220adf2e57e5e229af8f50f14a12e98d88",
+      "size": 28241
+    },
+    {
+      "path": "cp2-unit-4.html",
+      "sha256": "e07675edc46b7de730fcf0ba3c370058288a3fe8ae820233517dfde376bbfe33",
+      "size": 27601
+    },
+    {
+      "path": "cp3-unit-1.html",
+      "sha256": "67adc648cc2ffb13a99cc101e419a28495c3b3e90a5a1155700c719e1228c235",
+      "size": 28700
+    },
+    {
+      "path": "cp3-unit-2.html",
+      "sha256": "6d2b95a2e0caf125681e21fabc60b332590168e432f30f9555ae2966ca53aab2",
+      "size": 28040
+    },
+    {
+      "path": "cp3-unit-3.html",
+      "sha256": "c531227c6065e1a61b0f7e98360cb4b0caca2997f22b9d74e5ee1a215e2d19ec",
+      "size": 28212
+    },
+    {
+      "path": "cp3-unit-4.html",
+      "sha256": "c65965c782a71d630589b4b9d4b142f23f51fe884a1f7ccfbd61bedec0f96f6a",
+      "size": 27833
+    },
+    {
+      "path": "cp4-unit-1.html",
+      "sha256": "2c4cb4bae25ae2e8d1ca6e262014fecef72b658d48b2dd2c51af7071da480096",
+      "size": 28399
+    },
+    {
+      "path": "cp4-unit-2.html",
+      "sha256": "d3ab00be056770b4cf5c84670c37e0f55e9b165707d3a0c32f47d44693d973b2",
+      "size": 27927
+    },
+    {
+      "path": "cp4-unit-3.html",
+      "sha256": "a4afded2e2f54a35d148fec8de213dfae3054d06bcd29ba98bfa8998af8e5016",
+      "size": 27068
+    },
+    {
+      "path": "critical-commentary-on-works-by-price.html",
+      "sha256": "7ddc388595ed8313c5c2ac1ddaa8eb86a38f433dab8e474d3f701c8d8eaf5c0b",
+      "size": 36782
+    },
+    {
+      "path": "d-flat-a-flat-and-e-flat-major-arpeggios.html",
+      "sha256": "4717b505231b33cac0939b76fe9b8e3e46c776b3327e9ed00c91eeb653fcfc35",
+      "size": 40632
+    },
+    {
+      "path": "d-flat-and-g-flat-major-scales.html",
+      "sha256": "13730c7a3e03d158292ff59d59653d74f27a9291a8414bdc0a634443ef8c32d8",
+      "size": 42190
+    },
+    {
+      "path": "diatonic-chord-crawls.html",
+      "sha256": "0b5312061cbfd2a0ea0b2c71d8759351b3c3953548cd8ef91be7d1aab69cea80",
+      "size": 30767
+    },
+    {
+      "path": "diatonic-sequences.html",
+      "sha256": "de1d5d89fd170874d0bec45e66550bbf2be5f07d1b654ce0216035f569f870da",
+      "size": 31608
+    },
+    {
+      "path": "discovering-the-harmonic-minor-scales.html",
+      "sha256": "72bf67668f3f3fcd23c5fa07a7c14981337cc12962b8458e5780e2c9718bd392",
+      "size": 32501
+    },
+    {
+      "path": "discovering-the-major-scales.html",
+      "sha256": "a83a61bfdc0f4fc743ad301e6c3a40ebf9d92f4bff9cce697f592608ad9da32f",
+      "size": 32187
+    },
+    {
+      "path": "dominant-seventh-chord-arpeggios.html",
+      "sha256": "27faafd6d60d36a44d3d96426b1d6e916ab2ff218dc106cc947033ebf82dc1f9",
+      "size": 50192
+    },
+    {
+      "path": "dominant-seventh-chords.html",
+      "sha256": "a8cb604caa0b6f4ccbcc23893e328d6d8ac9a262a612dec7c3847e0a0cf89e3e",
+      "size": 32718
+    },
+    {
+      "path": "drawing-major-five-finger-patterns.html",
+      "sha256": "be399045cd59fc87b516cdb19651b28a962d02a8d32813715cfe335356d51b08",
+      "size": 32202
+    },
+    {
+      "path": "drawing-minor-five-finger-patterns.html",
+      "sha256": "7b1be9206a4e8a877e9e81532b57b60d2494c52c88454a28b56b3448624ab13f",
+      "size": 32401
+    },
+    {
+      "path": "drawing-one-octave-major-arpeggios.html",
+      "sha256": "9139b933093f36b7569a8a7f8570b5d13580e0c5d909fd44a100354fa95c6a67",
+      "size": 33103
+    },
+    {
+      "path": "drawing-one-octave-minor-arpeggios.html",
+      "sha256": "1c59becb07c32a10edde49b31a9e80037a61fa9ee5d951083c5ba31e954159bd",
+      "size": 33165
+    },
+    {
+      "path": "f-and-b-major-scales-two-octaves.html",
+      "sha256": "8587b353a2205370f24142b5492e56e695428a7daf8c1f93b59d8cc721e067b5",
+      "size": 31544
+    },
+    {
+      "path": "full-review.html",
+      "sha256": "6d0af085ee668fba6fc231a8288f3928c179c2d9f07b03477f72364a9a42355b",
+      "size": 91835
+    },
+    {
+      "path": "fully-diminished-seventh-chord-arpeggios.html",
+      "sha256": "dfe013154851a02d16f611c1a9ba2e261376a746203ac1ea735f65a4fd8790aa",
+      "size": 51872
+    },
+    {
+      "path": "fundamentals-of-piano-technique.html",
+      "sha256": "c45bb67c01c6190c27bcc9aecb48dd679b9e965127f60d7d2776e1f5d570e8e8",
+      "size": 42098
+    },
+    {
+      "path": "g-flat-major-arpeggio.html",
+      "sha256": "4e62477a1829b4cf450e745e37c9fe38a2ae224c0c5fbfaf117ba1b3fa05f8aa",
+      "size": 29218
+    },
+    {
+      "path": "half-and-whole-steps.html",
+      "sha256": "d4cd07adc905ad9e77fe4db9e691af4e6fe6c2b35929c94d8d7e9f4e988aaa4c",
+      "size": 31222
+    },
+    {
+      "path": "harmonic-minor-scale-fingerings.html",
+      "sha256": "c0c9dda981e6bb01e477ecd68c18b5e664cf3f81af64cda6d5cc2b8e06ffdcf4",
+      "size": 48575
+    },
+    {
+      "path": "harmonic-minor-scales-c-and-g.html",
+      "sha256": "942879c9a1add0fed2696e4c859170951e00845128de9ae79df68c7307bf8f85",
+      "size": 31474
+    },
+    {
+      "path": "harmonic-minor-scales-d-a-and-e.html",
+      "sha256": "6a84271e97bceaae9dcafc21c796a099bfc86ecf497480f03f79be9f2bb28472",
+      "size": 34568
+    },
+    {
+      "path": "harmonic-minor-scales-f-and-b.html",
+      "sha256": "139a769840d6420bc37b5721a8dfbad7db96a2730e3c73dbb69017d304905f6b",
+      "size": 31942
+    },
+    {
+      "path": "harmonization-10.html",
+      "sha256": "ef885d878b1d86f8ed0ca748c24573b877958c9c452c44dad2747238dc7a8564",
+      "size": 29422
+    },
+    {
+      "path": "harmonization-11.html",
+      "sha256": "c0d28737a98ace65d98947cc328df2776d6e4508b2f9e328c426e63a87d03998",
+      "size": 31732
+    },
+    {
+      "path": "harmonization-12.html",
+      "sha256": "0cd9ce185160ad4f4ec9ad4e30f3ef47539faf7b68f74948953bad4fd415247d",
+      "size": 29505
+    },
+    {
+      "path": "harmonization-2.html",
+      "sha256": "b5272229e391d98358177e9a477118d9b88e87ca35dd87fe3e077a86b07c98d8",
+      "size": 30745
+    },
+    {
+      "path": "harmonization-3.html",
+      "sha256": "5ad0a609feea4acbcacb380edfbb86dc6745dee722d464c1b0c118ef530a803a",
+      "size": 30840
+    },
+    {
+      "path": "harmonization-4.html",
+      "sha256": "718bd4f2c184decc96773e149c17ba312904b2573a7959658ad0895b4296bd0a",
+      "size": 30831
+    },
+    {
+      "path": "harmonization-5.html",
+      "sha256": "6c352521874eb2da606f65452640300f8c15884b13e66a0689a02276c615e2dc",
+      "size": 32130
+    },
+    {
+      "path": "harmonization-6.html",
+      "sha256": "99fb90af44548266c8d295145c1956601cb4e9b3db40e628e87b2b506329ccb1",
+      "size": 30995
+    },
+    {
+      "path": "harmonization-7.html",
+      "sha256": "763bfc7a4644b435b4014884c735ea964f9b1083b0518c625aa20aa4039f8973",
+      "size": 31928
+    },
+    {
+      "path": "harmonization-8.html",
+      "sha256": "5dc2d86b2dbae969429308146bae87cc3f5feee9b5df654a194d3afec27ed37c",
+      "size": 31027
+    },
+    {
+      "path": "harmonization-9.html",
+      "sha256": "401b0c742c09d4e6d5f8a05004a067efff0ba41c2b6710556fb0962f08481b59",
+      "size": 32154
+    },
+    {
+      "path": "harmonization-with-chord-roots.html",
+      "sha256": "7f3157b2b417aa23a95a96fdae9d7dc56cd3d9f79041dbec4c94864a19f4c8bf",
+      "size": 39881
+    },
+    {
+      "path": "harmonization-with-chords.html",
+      "sha256": "03debe0435af440d303a90fc8c3daf2638d1cae5457305cef014f9e00fc04e83",
+      "size": 33652
+    },
+    {
+      "path": "harmonization.html",
+      "sha256": "dcab0f3371214f0de1b0a68f3902ae6b62c0f5e1b999a0a1dc542df5fb2b7445",
+      "size": 31764
+    },
+    {
+      "path": "harmonizing-the-major-scale.html",
+      "sha256": "b3aa4c33b632c257aebd1f335b751a2ced079ae82b723dec8c8c193fa1c85d91",
+      "size": 28216
+    },
+    {
+      "path": "hymn-excerpts-1.html",
+      "sha256": "05a12bf5f8ca56e4dafda6d998aa1010c8308ba46c0c38cd431c4064a2557cd3",
+      "size": 31668
+    },
+    {
+      "path": "hymn-excerpts.html",
+      "sha256": "20e2e3ecf9af82895c860ac9f943be1030432238521878ddb9c12fa32ef3b0f1",
+      "size": 32602
+    },
+    {
+      "path": "hymns-2.html",
+      "sha256": "130c32f50122f657762023fb666c7a795285d25d5cf8fb3fd2aaa59e8d5b3901",
+      "size": 29323
+    },
+    {
+      "path": "hymns-3.html",
+      "sha256": "ae9c76e36c91f5d5a7a2283bbf886fbd7079e146929cdf1855d0d12847efcdac",
+      "size": 28990
+    },
+    {
+      "path": "hymns.html",
+      "sha256": "0f388d34008d1c380f12a285572609008eb06c71f9912b1ea3e90abacacd2f55",
+      "size": 28925
+    },
+    {
+      "path": "improvisation-with-the-blues-scale.html",
+      "sha256": "230e45f525358848b7741557099ad6d26045bcd79d9770a426870b331afe22e9",
+      "size": 36779
+    },
+    {
+      "path": "index.html",
+      "sha256": "5a1c5d66548c9661f39aeac1d82e7ff01795628e20e2d87a03d90e8f5b94539d",
+      "size": 26945
+    },
+    {
+      "path": "interval-identification-2nds-8ves.html",
+      "sha256": "ffb0686a31e2f3beafcc922109a3d5421cd0e166821e545d94e1ef55fc07b680",
+      "size": 27179
+    },
+    {
+      "path": "interval-identification.html",
+      "sha256": "9cc80c65113ab66423b20f3f9efc6ffe5fe21b368fa6506c5f75bf3c7ea743ee",
+      "size": 27141
+    },
+    {
+      "path": "intervals-2nds-5ths.html",
+      "sha256": "dacfacf2fefb589cee76dda34a50d8e48a509412584a38e69163b1ed1542c6d3",
+      "size": 31006
+    },
+    {
+      "path": "intervals-6ths-8ves.html",
+      "sha256": "8c4f8ea6fb6df731b485ecc66e97feb2cd4e778ccbfde185740829e4222d7b25",
+      "size": 31423
+    },
+    {
+      "path": "introduction-to-chorales.html",
+      "sha256": "a8081e1697a34a491d908ee8d8b5b2c1f2cadee4c86546e6c0dbbd933a3c8785",
+      "size": 37301
+    },
+    {
+      "path": "keyboard-style-harmonization.html",
+      "sha256": "41f32fd9d22eaae2b14388ac71253a5dda9d6525df1408ea139d0e86f16a05e2",
+      "size": 37721
+    },
+    {
+      "path": "level-i-and-ii-review.html",
+      "sha256": "6c4ae7f2b55601c62a51dd73f00d3d2aa2a2efa34e100cc0f11d13b46331ae88",
+      "size": 29475
+    },
+    {
+      "path": "major-arpeggio-fingerings.html",
+      "sha256": "8ddbbb8db95063a8c872ec33109bf19b1e1df34dbd6afb0be89e11f2d870c115",
+      "size": 47774
+    },
+    {
+      "path": "major-five-finger-patterns.html",
+      "sha256": "c25f754f89e505f383d916c3977d56e10426cb8483f343ea30316c4cf7472fa0",
+      "size": 28480
+    },
+    {
+      "path": "major-scale-fingerings.html",
+      "sha256": "6b95d733dde1f15ccd05b5ad7d828a834f0c6abd570439ff6bbd648719b1fb8c",
+      "size": 48288
+    },
+    {
+      "path": "memorable-melodies-minor.html",
+      "sha256": "ff919a046ec1ad8a91fec186bd46c76442b6fe90533467ea73211101852b9010",
+      "size": 36419
+    },
+    {
+      "path": "memorable-melodies.html",
+      "sha256": "43ff143f9166b06b295f739099b6ed0bf9e56a524039e900fb742aca43d96c69",
+      "size": 38805
+    },
+    {
+      "path": "minor-arpeggio-fingerings.html",
+      "sha256": "ce5735750b2ad368d00540b4dec96ce0c21dea9814aaa571334ea0e5911fcb94",
+      "size": 47845
+    },
+    {
+      "path": "minor-diatonic-chord-crawl.html",
+      "sha256": "a208d177719a965467c0b6892d97466cc1515409940277520963149887c7bf8d",
+      "size": 29569
+    },
+    {
+      "path": "minor-five-finger-patterns.html",
+      "sha256": "ecd18c3acba6aa06c02680e30725185e1f162a448ced6e2efac87fcb96e2e086",
+      "size": 31196
+    },
+    {
+      "path": "minor-primary-chords.html",
+      "sha256": "d010f449786722fb112d55556c3c0c8f137c9dc977b64995f7055fb722f6aad9",
+      "size": 35156
+    },
+    {
+      "path": "minor-scales.html",
+      "sha256": "f18b3ccedc231f45d8abc5aeaa8cb69b7714a079fc06720cbb915e6aa435c6c2",
+      "size": 33115
+    },
+    {
+      "path": "minor-triad-chromatic-chord-crawl.html",
+      "sha256": "81a416a8806c2948df3c107f446053554aad87dac0a078f6190c9e9dd8c707ae",
+      "size": 31623
+    },
+    {
+      "path": "modes-dorian-aeolian-and-phrygian.html",
+      "sha256": "0cd019a75218321170a00dfaba0ae86752f08e1c4a0e5e22148be507d422b2ce",
+      "size": 32686
+    },
+    {
+      "path": "modes-lydian-ionian-and-mixolydian.html",
+      "sha256": "00266edde6a9289854ec6fc5d9aa4e797d744bce6b447f6827a4f64fa0f024e7",
+      "size": 31883
+    },
+    {
+      "path": "modulating-progressions.html",
+      "sha256": "86e1b06cbe6d9e19563bb995e4bc9033b004323e3dce57e92f4663ea46cb6bd1",
+      "size": 30043
+    },
+    {
+      "path": "more-chromatic-progressions.html",
+      "sha256": "b408fb44cb986c28d139767ade27398efa358ccb280f2e8282c296c4f1cab83a",
+      "size": 32795
+    },
+    {
+      "path": "more-vocal-warm-ups.html",
+      "sha256": "df5148bcb5fc7981e3c2f1cbf62dd730224ad5608c2c5bc88c33a8fa28591019",
+      "size": 29503
+    },
+    {
+      "path": "note-identification.html",
+      "sha256": "f42f87010ae473b4b32cfce7582bedbc0f71d9493b425536c420fa9d666d9ca3",
+      "size": 27470
+    },
+    {
+      "path": "one-octave-arpeggios.html",
+      "sha256": "8c67ade029dfe77d152c51b373830c6acbedded30b2e6915a6c90c13bb5e1629",
+      "size": 31126
+    },
+    {
+      "path": "one-octave-major-scales.html",
+      "sha256": "c3f178ff8fd8a1ace627a441bca886e0f0927c1d756c42b5e6389d265402ba8b",
+      "size": 43536
+    },
+    {
+      "path": "one-octave-minor-arpeggios.html",
+      "sha256": "87da6b38c0b8a53c0a035a09afdf3914deef8fc01982fbecba918785caaf9725",
+      "size": 35075
+    },
+    {
+      "path": "orientation-to-the-keyboard.html",
+      "sha256": "1df3f5949d64fab381b235d2ca8b4470718740e407d884905cd9f950182feeb2",
+      "size": 30261
+    },
+    {
+      "path": "pedal.html",
+      "sha256": "6faf95e17fc2592fc3f1e240ce955620d5f6d6f369ae19d3efcdedb223aec5f8",
+      "size": 31445
+    },
+    {
+      "path": "persistence-and-recovery.html",
+      "sha256": "e8567cc7658ec33288560134a4617c9a4a7f141115f5019d61fd46cd61fac808",
+      "size": 69377
+    },
+    {
+      "path": "practice-strategies.html",
+      "sha256": "28696fc4c21a1cb6ebc494153c8bcdab5398f906e5faa3ee95f71eafba313f01",
+      "size": 36424
+    },
+    {
+      "path": "preface.html",
+      "sha256": "ba9f341524f9e45bf0610442bbf35f5664cf88be6bc307bf38e45ddb1bd16af0",
+      "size": 43557
+    },
+    {
+      "path": "primary-chord-progression.html",
+      "sha256": "8de7f771f09733fb21a62f46c02899349b23c64f1385ab74e8fc6951cfbcb06c",
+      "size": 32373
+    },
+    {
+      "path": "progressions-with-secondary-chords-in-minor-keys.html",
+      "sha256": "b59096e515a82fda2591190bdd9d789f47286a60abb0f236d0f9cd829b61f96e",
+      "size": 32202
+    },
+    {
+      "path": "questions-for-final.html",
+      "sha256": "4b1f380d687d9d2f2bde72138b3a6938ae49c49dee7b618bc33d61c59fa1c8ba",
+      "size": 26488
+    },
+    {
+      "path": "reading-by-finger-number.html",
+      "sha256": "7d47821e84c1717ff8f57f2dda26303f288a96460d885a2d917a538e6df8ed13",
+      "size": 28272
+    },
+    {
+      "path": "repertoire-10.html",
+      "sha256": "7fffb7a08f44d9f50e0f0ed8c6145651c65ef3275e5fe9e1220bc87d6246fc84",
+      "size": 30018
+    },
+    {
+      "path": "repertoire-11.html",
+      "sha256": "8e7ad46feaa27e758cf78196f5b30535cdbebe3c3d32fc1b5deb455fd423ac12",
+      "size": 30314
+    },
+    {
+      "path": "repertoire-12.html",
+      "sha256": "9f0037d2d7d6e210d1e6372de9a6f025215f64d798819a30bff376b64bbaebd4",
+      "size": 30419
+    },
+    {
+      "path": "repertoire-13.html",
+      "sha256": "37ca2bdff14f3b9b3bea5cd87a81a74b9089bdb6ee69f3c138803717a2681942",
+      "size": 27407
+    },
+    {
+      "path": "repertoire-14.html",
+      "sha256": "2f8c8f700cc54f82d10f3ef846b284964e0158c37ac3e7b4c9a92c0565ba399a",
+      "size": 29774
+    },
+    {
+      "path": "repertoire-15.html",
+      "sha256": "f2e43eabf6af6321a9095a811a4fd45ec1cfdfd3de6946bef9f5c42e200cde97",
+      "size": 29041
+    },
+    {
+      "path": "repertoire-2.html",
+      "sha256": "6b410cd888b5e67117ccb526a5dd5c94a68c7491208d5c15e273cbabfa51353d",
+      "size": 30446
+    },
+    {
+      "path": "repertoire-3.html",
+      "sha256": "cfc9835a1fb583cf033267c99e248b1854d821a3ae7e1c37a34ba2bffc93679c",
+      "size": 28187
+    },
+    {
+      "path": "repertoire-4.html",
+      "sha256": "fd42422dec0001491bd85b511902b52e15f21a5257d4b6a7b5da931cf9bbb219",
+      "size": 27021
+    },
+    {
+      "path": "repertoire-5.html",
+      "sha256": "3371e86bb911e3a2a9fd2fe41f8a279f70711bf531310225cd8f002d9f5ea590",
+      "size": 29119
+    },
+    {
+      "path": "repertoire-6.html",
+      "sha256": "92d1347011f50564ca9d7fe6d5e0caad4ec0beca4bfc6d514eb255cb50021a1c",
+      "size": 29218
+    },
+    {
+      "path": "repertoire-7.html",
+      "sha256": "42fa384f2c87df83a868dad9fe30fe3e94e5c38c2c457adf9e3ce08e9cd16fac",
+      "size": 28071
+    },
+    {
+      "path": "repertoire-8.html",
+      "sha256": "22888b6e315f9620993902c70861ae0bbdd78cf24c9c3ab85802ad0047593cd9",
+      "size": 29105
+    },
+    {
+      "path": "repertoire-9.html",
+      "sha256": "e1f1c4b4d9ba203b43397e94e137fbcde21d51f09cc089aa20fa5d25ab9b8c6b",
+      "size": 27017
+    },
+    {
+      "path": "repertoire-index-alphabetical-by-composer.html",
+      "sha256": "0ea5d05a295e0f54c7786d81e52a443268a26b7e80ae701d8c37b93bb73178cf",
+      "size": 49525
+    },
+    {
+      "path": "repertoire-index-in-order-of-appearance.html",
+      "sha256": "6decb70ba7f5c130944804ca074ca17ad2b909625f852457a7e6567ad86b7084",
+      "size": 49393
+    },
+    {
+      "path": "repertoire.html",
+      "sha256": "e1beda465ee58beb746d9f064f76b52b30171ed6d62ae18cc7e1cab93f55ed5d",
+      "size": 38278
+    },
+    {
+      "path": "reviewing-major-arpeggios.html",
+      "sha256": "c9699f3e952a7863602b1ae551b8aa98d060edf1d6fddbf191a952ba2acb098b",
+      "size": 34202
+    },
+    {
+      "path": "reviewing-major-scales-with-black-key-tonics.html",
+      "sha256": "01634e306b534973e6c0bc398bf9b7d9cdda143cacff9c53c8c751f981103a52",
+      "size": 37796
+    },
+    {
+      "path": "reviewing-major-scales.html",
+      "sha256": "ee7eb73f9341c28810e5c29f6278cddf25477a6e38044dc9aa8be1ffeb86a888",
+      "size": 34123
+    },
+    {
+      "path": "reviewing-minor-arpeggios.html",
+      "sha256": "4a8beb8a8208203ba77c31459c03513f73456c27e42f374b75840ec1fb956d1a",
+      "size": 34191
+    },
+    {
+      "path": "reviewing-minor-scales.html",
+      "sha256": "236bc28093d04d9994536a477fe7bf50ae5b49f2d63650d15b83d6fcf10e66e5",
+      "size": 34583
+    },
+    {
+      "path": "rights-and-sources.html",
+      "sha256": "b69819f080ab5262dab38bcb6fe115886a7df7d23b09619e37873cb14a2d5f2b",
+      "size": 30761
+    },
+    {
+      "path": "sample-print.html",
+      "sha256": "7e48d8a232932050b38860d889fb0d35b7895ab6136ec3beaf2a3c572d426537",
+      "size": 4555
+    },
+    {
+      "path": "sample-review.html",
+      "sha256": "deb56195be03aa2206b0a75733212cd99287e29b696f026eb5cc4e652fbadddb",
+      "size": 27815
+    },
+    {
+      "path": "scale-ensemble-minor.html",
+      "sha256": "4dae2eec136f213843a52e3890189a84952968aaf1afa6d197175217f1e8e61c",
+      "size": 28531
+    },
+    {
+      "path": "scale-ensemble.html",
+      "sha256": "b930b073a869b74e7ac891e271c5d0850334b5cb4c6715b55065d2d17935c9e4",
+      "size": 28063
+    },
+    {
+      "path": "score-reading-2.html",
+      "sha256": "dfd54807ef9e858c331479ef2400ae1295affe5ef7c9d348db3689bd4ec04431",
+      "size": 28906
+    },
+    {
+      "path": "score-reading-3.html",
+      "sha256": "5923efe0255dc5ce8f3e9de5f8030353fc78f55d123c02c2b79d77f25c048199",
+      "size": 30261
+    },
+    {
+      "path": "score-reading-4.html",
+      "sha256": "08c0cac1d6270354a8cafb06fff95fe4339c11ab5736402dab92e78b2c1ad479",
+      "size": 29452
+    },
+    {
+      "path": "score-reading-5.html",
+      "sha256": "b47d92029b2703a54d040a8c17795b90a9f8f9de31a29644e1a1c2398b5ae6b6",
+      "size": 28425
+    },
+    {
+      "path": "score-reading-6.html",
+      "sha256": "bfc010f6b1006c3914200f1b133c180f708b67d63212ab63567acee752ef4541",
+      "size": 28129
+    },
+    {
+      "path": "score-reading-7.html",
+      "sha256": "1472a3036802acd8b0e2fe58db379f775df721586ba902fa694e293f908b74bf",
+      "size": 28162
+    },
+    {
+      "path": "score-reading-8.html",
+      "sha256": "a93f1ed7c536e787dce2b3afa11d0f67a3e27c230185246e396937fae28e4e2e",
+      "size": 28143
+    },
+    {
+      "path": "score-reading.html",
+      "sha256": "252c393767008bf82d0af8e7a652508d247abeddc41536f7cbb7de1bd992a798",
+      "size": 31224
+    },
+    {
+      "path": "secondary-chord-progressions.html",
+      "sha256": "a9b2176039a7d731f24e37a3b3c25b815c15bf68ec7fdf6d65fe6aafe6fe2a7f",
+      "size": 31773
+    },
+    {
+      "path": "secondary-dominants.html",
+      "sha256": "06473e4bb179946a53a47a470bcf7b9f65195c819bcb4ff35211eccd24e567fd",
+      "size": 37041
+    },
+    {
+      "path": "sight-reading-2.html",
+      "sha256": "7d173102864105428701ac1faac5325f9989941a7403cc7c453340329f9dd04c",
+      "size": 36766
+    },
+    {
+      "path": "sight-reading-3.html",
+      "sha256": "2efa6003d4f28cccf3fba202c3c7ff5f870b9e673d9182ce8a97fb771a6bcfb8",
+      "size": 36544
+    },
+    {
+      "path": "sight-reading-4.html",
+      "sha256": "955eeed5fd2c45968c77ff03fe20baff6abbc91027a964ee6e7b46beb387eda5",
+      "size": 37017
+    },
+    {
+      "path": "sight-reading-5.html",
+      "sha256": "efc4963b2cf0feb928af3adfae7a90c65ad7739d037e28a608ec39cf92c7c7eb",
+      "size": 36930
+    },
+    {
+      "path": "sight-reading-6.html",
+      "sha256": "1c240e37996824d32e43bf828233794f8fc4436f3fdc366a87bd1b8abd5124ff",
+      "size": 34685
+    },
+    {
+      "path": "sight-reading-7.html",
+      "sha256": "4e2bc3fb98fad9a529241ea31d74023154fa0b0cc1fbb6fa3b030b62eafebca3",
+      "size": 34532
+    },
+    {
+      "path": "sight-reading-8.html",
+      "sha256": "92509d735834dcdece8e68135f25645972462c9bd36793eb719c886b9bb93dcb",
+      "size": 33668
+    },
+    {
+      "path": "sight-reading-9.html",
+      "sha256": "8eb2e0201dd552557ffc9c1472d97d1c565d74080963813fbe706d28e007e455",
+      "size": 31446
+    },
+    {
+      "path": "sight-reading.html",
+      "sha256": "c1bf92c90fff8fb65e69424286d0da885698cd9deb46ebadb0f6e96eaaad2033",
+      "size": 37316
+    },
+    {
+      "path": "source-corrections.html",
+      "sha256": "c08c50c3a5577c11f2c8c1510139bf899cac9c1ef53b7e68e4825e29aa931084",
+      "size": 39921
+    },
+    {
+      "path": "style.css",
+      "sha256": "7cf6d6f91ac15f4ccb7eb00366f52c004d0f9bcb71e5c313c387d159685b9c7e",
+      "size": 6024
+    },
+    {
+      "path": "tetrachord-scales.html",
+      "sha256": "f4e1aa7d124cd53f3fe9080fbdae632c5f83a98df3b360cfaabf8d9375b9a706",
+      "size": 30415
+    },
+    {
+      "path": "tonic-triad.html",
+      "sha256": "c937de2e0f71b13e5365c448edc39f411bad95537446b345596384946d4e0c90",
+      "size": 28187
+    },
+    {
+      "path": "translation-policy-and-glossary.html",
+      "sha256": "9634666e03a527135061a4ea114e632da08b96a32af9f0a8ed7dbf4885f95516",
+      "size": 41528
+    },
+    {
+      "path": "translation-quality-checklist.html",
+      "sha256": "8f0dc69fb4290650b8f4b2691f12dcb68ed6263270d52bfe764830d6d9c80bb8",
+      "size": 27901
+    },
+    {
+      "path": "triad-inversions.html",
+      "sha256": "c48d4fc53a6a4597b1d4eed601aabecc350b78257e879c3dff905561c24c23a2",
+      "size": 31670
+    },
+    {
+      "path": "two-hand-harmonization.html",
+      "sha256": "e4958a2f3a71698c62c127ace3df80182f349010a28e4f00e0f8788dc1bb7197",
+      "size": 36720
+    },
+    {
+      "path": "two-octave-major-arpeggios.html",
+      "sha256": "f363aacf863312a0d3067fb04b5b14be94a28f0e5b9ef2a11a111ad98341c5c2",
+      "size": 48014
+    },
+    {
+      "path": "two-octave-major-scales.html",
+      "sha256": "47d8ebb0a2e9de3e7903255b8364933916cfaf94b6ede5c053f24cfb7e87de0d",
+      "size": 43007
+    },
+    {
+      "path": "two-octave-minor-arpeggios.html",
+      "sha256": "60af26d66f9692252efd4732ef68598563f0aaccd39da694bce19707f93ebd6c",
+      "size": 45350
+    },
+    {
+      "path": "vocal-warm-ups.html",
+      "sha256": "f53615d963f191883dfa877f01c9341e60430cc0272351498bd7fd789322cf9d",
+      "size": 28979
+    }
+  ]
+}
