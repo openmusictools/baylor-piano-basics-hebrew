@@ -1,5 +1,5 @@
 {
-  "pdf_sha256": "3ca4fe66b1fd4d81154f4542a4e5450d5fd3177fcb576cd366454c1f253f2b09",
+  "regular_pdf_sha256": "3ca4fe66b1fd4d81154f4542a4e5450d5fd3177fcb576cd366454c1f253f2b09",
   "files": [
     {
       "path": ".nojekyll",
@@ -40,31 +40,6 @@
       "path": "appendix-contents.html",
       "sha256": "64578e0b2f0a05089bbf53971573ab3423ac1f6107a84e95370dcac254d60932",
       "size": 29404
-    },
-    {
-      "path": "assets/fonts/DejaVuSans-Bold.ttf",
-      "sha256": "5c1247acef7f2b8522a31742c76d6adcb5569bacc0be7ceaa4dc39dd252ce895",
-      "size": 708920
-    },
-    {
-      "path": "assets/fonts/DejaVuSans.ttf",
-      "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280",
-      "size": 759720
-    },
-    {
-      "path": "assets/fonts/LICENSE-DejaVu.txt",
-      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
-      "size": 3859
-    },
-    {
-      "path": "assets/fonts/NotoMusic-Regular.ttf",
-      "sha256": "aeb2998c380f5807cda77e1d94e4ac596429cb74d4fffb8da279d4f3144c0eae",
-      "size": 124336
-    },
-    {
-      "path": "assets/fonts/OFL.txt",
-      "sha256": "1679cb60544990b4c2445320c6d5298e4bb0c08ff00dbb5a526f3793fdaa1e6f",
-      "size": 4381
     },
     {
       "path": "assets/source/01069e797ec636e68622.png",
@@ -767,6 +742,31 @@
       "size": 179654
     },
     {
+      "path": "assets/source/DejaVuSans-Bold.ttf",
+      "sha256": "5c1247acef7f2b8522a31742c76d6adcb5569bacc0be7ceaa4dc39dd252ce895",
+      "size": 708920
+    },
+    {
+      "path": "assets/source/DejaVuSans.ttf",
+      "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280",
+      "size": 759720
+    },
+    {
+      "path": "assets/source/LICENSE-DejaVu.txt",
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "size": 3859
+    },
+    {
+      "path": "assets/source/NotoMusic-Regular.ttf",
+      "sha256": "aeb2998c380f5807cda77e1d94e4ac596429cb74d4fffb8da279d4f3144c0eae",
+      "size": 124336
+    },
+    {
+      "path": "assets/source/OFL.txt",
+      "sha256": "1679cb60544990b4c2445320c6d5298e4bb0c08ff00dbb5a526f3793fdaa1e6f",
+      "size": 4381
+    },
+    {
       "path": "assets/source/a0da60969e29bf39ec88.png",
       "sha256": "423fbe3c1b6cf3a106629b1f88b1ccc90065d7155111af5b4c5f68d06959323b",
       "size": 43417
@@ -1282,6 +1282,56 @@
       "size": 96813
     },
     {
+      "path": "assets/source/mobile-page-0001.png",
+      "sha256": "3123ab418a2b5b354d5277d09a2a83206639d780de93522259e3dd1f2a34dcf8",
+      "size": 103037
+    },
+    {
+      "path": "assets/source/mobile-page-0015.png",
+      "sha256": "3e1806a1d6976d900aba643b83d38ef2f938cd71e1fe6756bd26bd410c0e21d1",
+      "size": 167995
+    },
+    {
+      "path": "assets/source/mobile-page-0037.png",
+      "sha256": "a90af5025cc0d0a267a00fada3358ae94c11973ea75fbaa89304e42faed172b0",
+      "size": 656841
+    },
+    {
+      "path": "assets/source/mobile-page-0110.png",
+      "sha256": "b2de35cff55a609ff4118245ea6dd18ba87f025654f465ca388e6ba2d5701316",
+      "size": 137187
+    },
+    {
+      "path": "assets/source/mobile-page-0165.png",
+      "sha256": "ba5ec8062fa3ada6a84d4af40077135b0c351b162e4d1da2ad9b75d536002bfd",
+      "size": 113158
+    },
+    {
+      "path": "assets/source/mobile-page-0240.png",
+      "sha256": "cd26afb0b96e53be5220df1071b5cf62c36d5052e8ea62f72612fcb48cce7945",
+      "size": 117521
+    },
+    {
+      "path": "assets/source/mobile-page-0350.png",
+      "sha256": "154ce428fffa0fda943137305568e554750f4491746be9fc244668fc8758305d",
+      "size": 84584
+    },
+    {
+      "path": "assets/source/mobile-page-0470.png",
+      "sha256": "e5347c0f4c26f673bf64f362f3bab9f6f46173d791857e0fb229d0b04ef23057",
+      "size": 108487
+    },
+    {
+      "path": "assets/source/mobile-page-0590.png",
+      "sha256": "454777b6c8a39cd88d384d5cc8884082b3d7bf53da1a4fdfe94142b881e09385",
+      "size": 143473
+    },
+    {
+      "path": "assets/source/mobile-page-0684.png",
+      "sha256": "03107342be0b64821913082e637600624d8b203ca282e39571819ac2225addab",
+      "size": 97444
+    },
+    {
       "path": "b-flat-e-flat-a-flat-major-scales.html",
       "sha256": "2c8b3a04381d3b4a0fdbea22ac2fbc068995d45671aa4ac8bb182c3346d1faa1",
       "size": 39273
@@ -1698,8 +1748,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "5a1c5d66548c9661f39aeac1d82e7ff01795628e20e2d87a03d90e8f5b94539d",
-      "size": 26945
+      "sha256": "6ba1eaea404c06a552769e3ce41ed4d20ffbf213249d04e0efc60bf9e232f271",
+      "size": 26970
     },
     {
       "path": "interval-identification-2nds-8ves.html",
@@ -1790,6 +1840,11 @@
       "path": "minor-triad-chromatic-chord-crawl.html",
       "sha256": "81a416a8806c2948df3c107f446053554aad87dac0a078f6190c9e9dd8c707ae",
       "size": 31623
+    },
+    {
+      "path": "mobile-images.html",
+      "sha256": "0582700d361d54aa28a8da609fe8d3cabc458c372dc5838c818f2709fec43021",
+      "size": 3139
     },
     {
       "path": "modes-dorian-aeolian-and-phrygian.html",
@@ -2118,8 +2173,8 @@
     },
     {
       "path": "style.css",
-      "sha256": "7cf6d6f91ac15f4ccb7eb00366f52c004d0f9bcb71e5c313c387d159685b9c7e",
-      "size": 6024
+      "sha256": "ecc31f9e7cad7eecce681e0c05dfd7fda63ebea447f65731712d2f64e8d6f640",
+      "size": 6027
     },
     {
       "path": "tetrachord-scales.html",
